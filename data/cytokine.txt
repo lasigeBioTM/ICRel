@@ -1,0 +1,7286 @@
+
+10 kda interferon gamma-induced protein
+10 kDa interferon gamma-induced protein
+10 kDa interferon gammainduced protein
+12-O-tetradecanoylphorbol 13-acetate repressed protein 1
+13.6 kDa protein
+26rfa
+2AR
+4-1BB
+41bbl
+4-1bbl
+4-1bb-l
+41bb-l
+41BBL
+4-1BBL
+4-1BB-L
+4-1BB ligand
+41BB ligand
+4-1BB Ligand
+4-1BB ligand receptor
+464.2
+582J2.1
+6Ckine
+A-152E5.1
+A-152E5.3
+AAT3
+AAT5
+Abcd1
+ABCD-1
+ABCD-2
+abcd3
+abcd-3
+ABCD-3
+acidic fibroblast growth factor
+Acidic fibroblast growth factor
+ACKR3
+ACKR3_HUMAN
+ACT2
+ACT-2
+ACT35
+ACT35 antigen
+activated B and dendritic cell-derived
+activation-inducible TNF-related ligand
+Activation-inducible TNF-related ligand
+activation-inducible TNFR family receptor
+Activation-inducible TNFR family receptor
+activin A receptor type II-like kinase, 53kD
+activin A receptor type II-like kinase, 53kDa
+activin A receptor type II-like protein kinase of 53kD
+Activin A receptor type II-like protein kinase of 53kD
+activin receptor-like kinase 5
+Activin receptor-like kinase 5
+ACVRLK4
+adipogenesis inhibitory factor
+Adipogenesis inhibitory factor
+adipose-specific cysteine-rich secreted protein A12-alpha
+adipose tissue-specific secretory factor
+adipose tissuespecific secretory factor
+Adipose tissue-specific secretory factor
+ADSF
+AF-1
+afgf
+aFGF
+AFGF
+agif
+AGIF
+Aic2b
+aif
+a interferon
+AITR
+AITRL
+AITR ligand
+ak155
+AK155
+(Ala-IL-8)77
+aldesleukin
+ALK5
+ALK-5
+ALP
+alpha2a interferon
+(alpha)fgf
+(alpha)-fgf
+alpha-fgf
+alpha-ifn
+alpha interferon
+alpha-interferon
+Alpha platelet-derived growth factor receptor
+alpha-taxilin
+alpha-type antiviral protein
+alpha-type platelet-derived growth factor receptor
+Alpha-type platelet-derived growth factor receptor
+ALPS1A
+ALPS1B
+alrh
+alternative macrophage activation-associated CC chemokine 1
+alternative macrophage activationassociated CC chemokine 1
+Alternative macrophage activation-associated CC chemokine 1
+alveolar macrophage chemotactic factor 1
+alveolar macrophage chemotactic factor-1
+alveolar macrophage chemotactic factor I
+AMAC1
+AMAC-1
+amcf1
+amcf-1
+amcf2
+amcf-2
+anakinra
+anap
+angie
+Angie
+ANGIE
+ANGIE2
+anionic neutrophil-activating peptide
+antagonist decoy receptor for TRAIL/Apo-2L
+Antagonist decoy receptor for TRAIL/Apo-2L
+antigen CDw121b
+Antigens, CD70
+antiviral protein, type 2
+APC1 protein
+APO-1
+apo-1 antigen
+Apo-1 antigen
+APO-1 cell surface antigen
+APO2
+apo-2L
+Apo-2L
+APO2L
+apo-2 ligand
+Apo-2 ligand
+apo-3
+Apo3
+Apo-3
+APO3
+APO-3
+APO3/DR3 ligand
+apo3l
+apo-3l
+APO3L
+apo3 ligand
+APO3 ligand
+apoptosis antigen 1
+apoptosis antigen ligand
+Apoptosis antigen ligand
+apoptosis (APO-1) antigen ligand 1
+apoptosis inducing protein TRICK2A/2B
+apoptosis inducing receptor
+apoptosis-inducing receptor AIR
+Apoptosis-inducing receptor AIR
+apoptosis inducing receptor TRAIL-R2
+apoptosis-mediating receptor DR3
+Apoptosis-mediating receptor DR3
+apoptosis-mediating receptor TRAMP
+Apoptosis-mediating receptor TRAMP
+apoptosis-mediating surface antigen FAS
+Apoptosis-mediating surface antigen FAS
+april
+APRIL
+a proliferation-inducing ligand
+a proliferationinducing ligand
+A proliferation-inducing ligand
+APT1
+APT1LG1
+APTL
+ARVD
+ARVD1
+AT744.1
+at744.2
+AT744.2
+atac
+ATAC
+ATAR
+ATC35 antigen
+atypical chemokine receptor 3
+Atypical chemokine receptor 3
+AUTS9
+avian erythroblastic leukemia viral (v-erb-b) oncogene homolog
+AVP
+AVP, type 2
+b151 t-cell replacing factor
+b151-trf
+BAFF
+basic fibroblast growth factor
+Basic fibroblast growth factor
+basic fibroblast growth factor bFGF
+bB128O4.2.1 (interleukin 13 receptor, alpha 1)
+BCA1
+BCA-1
+bcdf alpha
+bcdf-alpha
+bcdf-(alpha)
+bcdf epsilon
+bcdf-epsilon
+bcdf-(epsilon)
+bcdf gamma
+bcdf-gamma
+bcdf-(gamma)
+bcdf mu
+bcdf-mu
+bcdf-(mu)
+B-cell-activating factor
+B-Cell Activating Factor
+B cell-associated molecule
+b cellattracting chemokine 1
+B cell-attracting chemokine 1
+Bcellattracting chemokine 1
+Bcell chemoattractant
+b-cell derived t-cell growth factor
+b-cell differentiation factor
+Bcell differentiation factor
+b-cell differentiation factor-alpha
+b-cell differentiation factor-epsilon
+b-cell differentiation factor-gamma
+b-cell differentiation factor i
+B-cell differentiation factor I
+Bcell differentiation factor I
+b-cell differentiation factor-mu
+b-cell growth and differentiation factor
+b-cell growth factor 1
+b-cell growth factor-1
+B cell growth factor 1
+B-cell growth factor 1
+b-cell growth factor-2
+b-cell growth factor-gamma
+b-cell growth factor ii
+B-cell growth factor II
+Bcellhoming chemokine (ligand for Burkitt's lymphoma receptor1)
+b-cell hybridoma growth factor
+B-cell hybridoma growth factor
+b-cell Igg differentiation factor
+B-cell IgG differentiation factor
+B cell maturation antigen
+B-cell maturation factor
+B-cell maturation protein
+b-cell stimulating factor
+b-cell stimulating factor-1
+b-cell stimulating factor-2
+b-cell-stimulating factor 3
+B-cell-stimulating factor 3
+B_Cell_Stimulating_Factor_3
+B-Cell Stimulating Factor 3
+b-cell stimulating factor p1
+b-cell stimulating factor p2
+b-cell stimulatory factor 1
+B_cell stimulatory factor 1
+B-cell stimulatory factor 1
+b-cell stimulatory factor 2
+B-cell stimulatory factor 2
+Bcell stimulatory factor 2
+B cell surface antigen CD40
+B-cell surface antigen CD40
+bcgf1
+bcgf-1
+BCGF1
+BCGF-1
+bcgf2
+bcgf-2
+bcgf-gamma
+bcgf-ii
+BCGF-II
+b-chemokine receptor
+BCM
+BCMA
+bcsf
+becaplermin
+beta-1 interferon
+beta chemokine exodus1
+beta chemokine exodus-1
+Beta-chemokine exodus-1
+beta chemokine exodus2
+beta chemokine exodus-2
+Beta-chemokine exodus-2
+beta chemokine exodus3
+beta chemokine exodus-3
+betachemokine exodus3
+Beta-chemokine exodus-3
+betachemokine RANTES
+beta chemokine receptor-like 1
+Beta chemokine receptor-like 1
+beta endothelial cellderived neutrophil activating peptide
+beta-endothelial cell growth factor
+betaendothelial cell growth factor
+(beta)fgf
+(beta)-fgf
+beta-fgf
+betaglycan
+Betaglycan
+betaglycan proteoglycan
+beta interferon
+beta-interferon
+Beta platelet-derived growth factor receptor
+beta-r1
+betaR1
+beta-R1
+Beta-R1
+beta tg
+beta-tg
+Beta-TG
+betathromboglobulin
+beta Thromboglobulin
+beta-Thromboglobulin
+(beta)-thromboglobulin 2
+(beta)-thromboglobulin-2
+beta thromboglobulin 2
+beta thromboglobulin-2
+beta-thromboglobulin 2
+beta-thromboglobulin-2
+betathromboglobulinlike protein
+beta-type antiviral protein
+beta-type platelet-derived growth factor receptor
+Beta-type platelet-derived growth factor receptor
+betaurogastrone
+bfgf
+bFGF
+BFGF
+BGCAN
+bhr1
+binetrakin
+Binetrakin
+b interferon
+blastogenic factor
+BLC
+BLR1
+BLR1L
+BLR2
+b lymphocyte chemoattractant
+B lymphocyte chemoattractant
+Blymphocyte chemoattractant
+B lymphocyte stimulator
+BLyS
+BLYS
+BMAC
+BN-1
+BNSP
+bolekine
+bone sialoprotein 1
+Bone sialoprotein 1
+BONZO
+Bp50
+b-r1
+b-R1
+BRAK
+breast and kidney
+BRICD3
+BRICHOS domain containing 3
+BSC-1 cell growth inhibitor
+BSC1 cell growth inhibitor
+bsf1
+bsf-1
+BSF1
+BSF-1
+bsf2
+bsf-2
+BSF2
+BSF-2
+bsf3
+bsf-3
+BSF3
+BSF-3
+bsf-p1
+bsf-p2
+BSPI
+b-tcgf
+btg1
+b-tg1
+B-TG1
+burkitt lymphoma receptor 1
+Burkitt lymphoma receptor 1
+Burkitt lymphoma receptor 1, GTP-binding protein
+Burkitt lymphoma receptor 1, GTP binding protein (chemokine (C-X-C motif) receptor 5)
+burkitt lymphoma receptor 1 homolog
+c
+C10
+c16orf77
+C16orf77
+C17orf33
+C32
+c3xkine
+C3Xkine
+c49a
+C49A
+C6 betachemokine
+c7
+C7
+C9orf26
+cachectin
+Cachectin
+calcium oxalate crystal growth inhibitor protein
+cancer/testis antigen 19
+Cancer/testis antigen 19
+CANDF5
+CANDF6
+cardiotrophin-like cytokine factor 1
+Cardiotrophin-like cytokine factor 1
+catabolin
+Catabolin
+cat development factor
+C-C
+cc-1
+CC-1
+cc-3
+CC-3
+CC4L_HUMAN
+CC chemokine ABCD-1
+CC chemokine ILC
+CC chemokine IMAC
+CC chemokine LARC
+CC chemokine ligand 18
+CC chemokine ligand 19
+CC chemokine ligand 4L1
+CC chemokine PARC
+CC chemokine receptor 10
+CC chemokine receptor 3
+CC chemokine receptor 7
+CC chemokine receptor 8
+CC-chemokine receptor chemr1
+CC chemokine receptor CHEMR1
+C-C chemokine receptor type 1
+C-C chemokine receptor type 10
+C-C chemokine receptor type 2
+C-C chemokine receptor type 3
+C-C chemokine receptor type 4
+C-C chemokine receptor type 5
+C-C chemokine receptor type 6
+C-C chemokine receptor type 7
+C-C chemokine receptor type 8
+C-C chemokine receptor type 9
+CC chemokine ST38
+CC chemokine STCP1
+CC chemokine STCP-1
+CC chemokine TARC
+C-C CKR-1
+C-C-CKR-1
+CC-CKR-1
+C-C CKR-10
+CC-CKR-10
+C-C CKR-2
+CC-CKR-2
+C-C CKR-3
+CC-CKR-3
+C-C CKR-4
+CC-CKR-4
+CCCKR5
+C-C CKR-5
+CC-CKR-5
+C-C CKR-6
+CC-CKR-6
+C-C CKR-7
+CC-CKR-7
+C-C CKR-8
+CC-CKR-8
+C-C CKR-9
+CC-CKR-9
+ccf18
+ccf-18
+CCF18
+CCL1
+CCL1 
+CCL10
+ccl11
+ccl-11
+CCL11
+CCL-11
+CCL11 
+CCL11_HUMAN
+ccl-12
+Ccl12
+CCL12 
+ccl13
+ccl-13
+CCL13
+CCL13 
+CCL13_HUMAN
+ccl14
+ccl-14
+CCL14
+CCL14 
+ccl14a
+CCL14_HUMAN
+ccl-15
+CCL15
+CCL15 
+CCL15(29-92)
+CCL15_HUMAN
+ccl-16
+CCL16
+CCL16 
+CCL16_HUMAN
+ccl17
+CCL17
+CCL-17
+CCL17 
+CCL17_HUMAN
+ccl-18
+CCL18
+CCL18 
+CCL18(4-69)
+CCL18_HUMAN
+CCL19
+CCL-19
+CCL19 
+CCL19_HUMAN
+CCL1_HUMAN
+ccl2
+ccl-2
+CCL2
+CCL2 
+CCL20
+CCL20 
+CCL20(2-70)
+CCL20_HUMAN
+CCL21
+CCL21 
+Ccl21b
+Ccl21c
+CCL21_HUMAN
+CCL22
+CCL22 
+CCL22_HUMAN
+ccl23
+ccl-23
+CCL23
+CCL23 
+CCL23(30-99)
+CCL23_HUMAN
+ccl24
+ccl-24
+CCL24
+CCL24 
+CCL24_HUMAN
+ccl25
+ccl-25
+CCL25
+CCL25 
+CCL25_HUMAN
+ccl-26
+CCL26
+CCL26 
+CCL26_HUMAN
+ccl-27
+CCL27
+CCL27 
+CCL27_HUMAN
+CCL2_HUMAN
+ccl 3
+ccl-3
+CCL3
+CCL3 
+CCL3_HUMAN
+ccl3l1
+CCL3L1
+CCL3L1 
+ccl3l2
+CCL3L2
+ccl3l3
+CCL3L3
+CCL3L3 
+CCL3L3/Full
+CCL3P1
+ccl 4
+ccl-4
+CCL4
+CCL4 
+CCL4_HUMAN
+ccl4l
+CCL4L
+ccl4l1
+CCL4L1
+CCL4L1 
+ccl4l2
+CCL4L2
+CCL4L2 
+ccl5
+ccl-5
+CCL5
+CCL5 
+CCL5_HUMAN
+ccl-6
+Ccl6
+CCL6
+CCL6 
+ccl-7
+CCL7
+CCL7 
+CCL7_HUMAN
+CCL8
+CCL8 
+CCL8_HUMAN
+ccl9
+ccl-9
+Ccl9
+CCL9
+CCL9 
+C-C motif chemokine 1
+CC motif chemokine 1
+c-c motif chemokine 11
+C-C motif chemokine 11
+C-C motif chemokine 12
+c-c motif chemokine 13
+C-C motif chemokine 13
+CC motif chemokine 13
+C-C motif chemokine 13, short chain
+c-c motif chemokine 14
+C-C motif chemokine 14
+CC motif chemokine 14
+c-c motif chemokine 15
+C-C motif chemokine 15
+CC motif chemokine 15
+c-c motif chemokine 16
+C-C motif chemokine 16
+CC motif chemokine 16
+C-C motif chemokine 17
+CC motif chemokine 17
+C-C motif chemokine 18
+CC motif chemokine 18
+C-C motif chemokine 19
+CC motif chemokine 19
+c-c motif chemokine 2
+C-C motif chemokine 2
+CC motif chemokine 2
+C-C motif chemokine 20
+CC motif chemokine 20
+C-C motif chemokine 21
+CC motif chemokine 21
+C-C motif chemokine 22
+CC motif chemokine 22
+c-c motif chemokine 23
+C-C motif chemokine 23
+CC motif chemokine 23
+c-c motif chemokine 24
+C-C motif chemokine 24
+CC motif chemokine 24
+c-c motif chemokine 25
+C-C motif chemokine 25
+CC motif chemokine 25
+C-C motif chemokine 26
+CC motif chemokine 26
+C-C motif chemokine 27
+CC motif chemokine 27
+C-C motif chemokine 3
+CC motif chemokine 3
+c-c motif chemokine 3-like 1
+CC motif chemokine 3like 1
+C-C motif chemokine 3-like 1, full-length form
+C-C motif chemokine 4
+CC motif chemokine 4
+c-c motif chemokine 4-like
+C-C motif chemokine 4-like
+CC motif chemokine 4like
+CC motif chemokine 5
+C-C motif chemokine 6
+C-C motif chemokine 7
+CC motif chemokine 7
+C-C motif chemokine 8
+CC motif chemokine 8
+c-c motif chemokine 9
+C-C motif chemokine 9
+C-C motif chemokine receptor 5 A159A
+CCR1
+CCR-1
+CCR10
+CCR-10
+CCR10_HUMAN
+CCR1_HUMAN
+CCR2
+CCR-2
+CCR-2A
+CCR2B
+CCR2_HUMAN
+CCR3
+CCR-3
+CCR3_HUMAN
+CCR4
+CCR-4
+CCR4_HUMAN
+CCR5
+CCR-5
+CCR5_HUMAN
+CCR6
+CCR-6
+CCR6_HUMAN
+CCR7
+CCR-7
+CCR7_HUMAN
+CCR8
+CCR-8
+CCR8_HUMAN
+CCR9
+CCR-9
+CCR9_HUMAN
+CCRL1
+CCXCR1
+CD110
+CD110V
+CD114
+CD114 antigen
+CD115
+CD115 antigen
+CD116
+CD116 antigen
+CD117
+CD118
+CD118 antigen
+CD119
+CD119 antigen
+CD120a
+CD120b
+CD121a
+CD121A
+CD121 antigen-like family member A
+CD121 antigen-like family member B
+CD121b
+CD122
+CD122 antigen
+CD123
+CD124
+CD125
+CD125 antigen
+CD126
+CD126 antigen
+CD127
+CD127 antigen
+CD128
+CD129
+CD130
+CD130 antigen
+CD131
+CD132
+CD132 antigen
+CD134
+CD134 antigen
+cd134l
+CD134L
+CD134 ligand
+CD135
+CD135 antigen
+CD136
+CD137
+CD137 antigen
+cd137l
+Cd137l
+CD137L
+CD140a
+CD140A
+CD140a antigen
+CD140 antigen-like family member A
+CD140 antigen-like family member B
+CD140b
+CD140B
+cd153
+CD153
+CD153 antigen
+cd154
+CD154
+cd157l
+Cd157l
+CD178
+CD18
+CD181
+CD182
+CD183
+CD184
+CD184 antigen
+CD185
+CD186
+CD191
+CD192
+CD193
+CD194
+CD195
+CD196
+CD197
+CD210
+CD210a
+CD212
+CD213a1
+CD213A1
+CD213a1 antigen
+CD213a2
+CD213A2
+CD215
+CD217
+CD218a
+CD218 antigen-like family member A
+CD25
+cd252
+CD252
+CD253
+cd254
+CD254
+cd256
+CD256
+CD257
+cd258
+CD258
+CD261
+CD262
+CD263
+CD264
+CD265
+CD267
+CD269
+CD27
+CD270
+CD27 antigen
+CD27_HUMAN
+cd27l
+CD27L
+CD27-L
+cd27lg
+CD27LG
+CD27 ligand
+cd27l receptor
+CD27L receptor
+CD27 molecule
+CD30
+CD30 antigen ligand
+cd30l
+cd30-l
+CD30L
+CD30-L
+cd30lg
+CD30LG
+cd30 ligand
+CD30 ligand
+CD30 Ligand
+CD30L receptor
+CD357
+CD360
+CD4
+CD40
+CD40 antigen ligand
+CD40 antigen (TNF receptor superfamily member 5)
+cd40l
+CD40L
+CD40-L
+cd40lg
+CD40LG
+CD40LG 
+CD40L_HUMAN
+cd40 ligand
+CD40 ligand
+CD40 ligand, soluble form
+CD40-like protein
+CD40L receptor
+CD40 molecule, TNF receptor superfamily member 5
+CD40 type II isoform
+CD4 antigen (p55)
+CD4_HUMAN
+CD4 molecule
+CD4mut
+CD4 receptor
+cd70
+CD70
+CD70 
+CD70 antigen
+CD70_HUMAN
+CD70 molecule
+CD70PRO-short-label
+CD95
+CD951
+CD95 antigen
+CD95L
+CD95-L
+CD95 ligand
+cdf
+CDF
+CDw116
+CDw119
+CDw121b
+CDw125
+CDw127
+CDW127
+CDw128a
+CDw128b
+CDw130
+CDW130
+CDw131
+CDw136
+CDw137
+CDw186
+CDw197
+CDw198
+CDw199
+CDw210a
+CDW210A
+CDw210b
+CDW210B
+CDw217
+CDw218a
+CDw40
+CDW40
+c/EBPepsilonregulated myeloidspecific secreted cysteinerich protein
+C/EBP-epsilon-regulated myeloid-specific secreted cysteine-rich protein
+C/EBPepsilon regulated myeloidspecific secreted cysteinerich protein precursor 1
+CED
+cef4
+cef-4
+cell growth inhibiting protein 40
+cell proliferation-inducing protein 61
+cetermin
+Cetermin
+C-FMS
+cfu-eo gsf
+cgb2
+cgb-2
+chemokine alpha 3
+Chemokine alpha 3
+chemokine BRAK
+Chemokine BRAK
+chemokine cc-1/cc-3
+chemokine CC-1/CC-3
+chemokine CC1/CC3
+Chemokine CC-1/CC-3
+chemokine cc-2
+chemokine CC2
+chemokine CC-2
+Chemokine CC-2
+chemokine CC3
+chemokine cc-4
+chemokine CC4
+chemokine CC-4
+Chemokine CC-4
+chemokine (CC), dendritic
+Chemokine CCL1
+Chemokine CCL11
+Chemokine_CCL11
+Chemokine CCL12
+Chemokine CCL13
+Chemokine CCL14
+Chemokine CCL15
+Chemokine CCL16
+Chemokine CCL17
+Chemokine CCL18
+Chemokine CCL19
+Chemokine CCL2
+Chemokine CCL20
+Chemokine CCL21
+Chemokine CCL22
+Chemokine CCL23
+Chemokine CCL24
+Chemokine_CCL24
+Chemokine CCL25
+Chemokine CCL26
+Chemokine CCL27
+Chemokine CCL3
+Chemokine CCL4
+Chemokine CCL5
+Chemokine CCL6
+Chemokine CCL7
+Chemokine CCL8
+Chemokine CCL9
+chemokine (C-C motif) ligand 1
+chemokine (c-c motif) ligand 11
+chemokine (C-C motif) ligand 11
+chemokine (C-C motif) ligand 12 
+chemokine (c-c motif) ligand 13
+chemokine (C-C motif) ligand 13
+chemokine (c-c motif) ligand 14
+chemokine (C-C motif) ligand 14
+chemokine (c-c motif) ligand 15
+chemokine (C-C motif) ligand 15
+chemokine (c-c motif) ligand 16
+chemokine (C-C motif) ligand 16
+chemokine (C-C motif) ligand 17
+chemokine (C-C motif) ligand 18 (pulmonary and activation-regulated)
+chemokine (C-C motif) ligand 19
+chemokine (c-c motif) ligand 2
+chemokine (C-C motif) ligand 2
+chemokine (C-C motif) ligand 20
+chemokine (C-C motif) ligand 21
+chemokine (C-C motif) ligand 22
+chemokine (c-c motif) ligand 23
+chemokine (C-C motif) ligand 23
+chemokine (c-c motif) ligand 24
+chemokine (C-C motif) ligand 24
+chemokine (c-c motif) ligand 25
+chemokine (C-C motif) ligand 25
+chemokine (C-C motif) ligand 26
+chemokine (C-C motif) ligand 27
+chemokine (C-C motif) ligand 3
+chemokine (c-c motif) ligand 3-like 1
+chemokine (C-C motif) ligand 3-like 1
+chemokine (c-c motif) ligand 3-like 2
+chemokine (c-c motif) ligand 3-like 3
+chemokine (C-C motif) ligand 3-like 3
+chemokine (CC motif) ligand 3like, centromeric
+chemokine cc motif ligand 3-like protein 2
+chemokine (C-C motif) ligand 3 pseudogene 1
+chemokine (C-C motif) ligand 4
+chemokine (c-c motif) ligand 4-like 1
+chemokine (C-C motif) ligand 4-like 1
+chemokine (CC motif) ligand 4like 1, telomeric
+chemokine (c-c motif) ligand 4-like 2
+chemokine (C-C motif) ligand 4-like 2
+chemokine (c-c motif) ligand 5
+chemokine (C-C motif) ligand 5
+chemokine (C-C motif) ligand 6
+chemokine (C-C motif) ligand 7
+chemokine (C-C motif) ligand 8
+chemokine (c-c motif) ligand 9
+chemokine (C-C motif) ligand 9
+chemokine (C-C motif) receptor 1
+chemokine (C-C motif) receptor 10
+chemokine (C-C motif) receptor 2
+chemokine (C-C motif) receptor 3
+chemokine (C-C motif) receptor 4 
+chemokine (C-C motif) receptor 5 (gene/pseudogene)
+chemokine (C-C motif) receptor 6
+chemokine (C-C motif) receptor 7
+chemokine (C-C motif) receptor 8
+chemokine (C-C motif) receptor 9
+chemokine C-C receptor 10
+chemokine (C-C) receptor 4
+chemokine (C-C) receptor 6
+chemokine (C-C) receptor 7
+chemokine (C-C) receptor 8
+chemokine C-C receptor 9
+chemokine (C-C) receptor-like 1
+chemokine (C-C) receptor-like 2
+chemokine (c motif) ligand 1
+chemokine (C motif) ligand 1
+chemokine (C motif) ligand 2
+chemokine (C motif) receptor 1 
+chemokine (C motif) XC receptor 1
+Chemokine CX3CL1
+chemokine (c-x3-c motif) ligand 1
+chemokine (C-X3-C motif) ligand 1
+chemokine (C-X3-C motif) receptor 1
+chemokine (C-X3-C) receptor 1
+Chemokine CXCL1
+Chemokine_CXCL1
+Chemokine CXCL10
+Chemokine_CXCL10
+Chemokine CXCL11
+Chemokine CXCL12
+Chemokine CXCL13
+Chemokine CXCL14
+Chemokine CXCL15
+Chemokine CXCL16
+Chemokine CXCL17
+Chemokine CXCL2
+Chemokine CXCL3
+Chemokine CXCL4
+Chemokine CXCL5
+Chemokine_CXCL5
+Chemokine CXCL6
+Chemokine CXCL7
+Chemokine CXCL8
+Chemokine CXCL9
+chemokine (c-x-c motif) ligand 1
+chemokine (c-x-c motif) ligand 10
+chemokine (C-X-C motif) ligand 10
+chemokine (c-x-c motif) ligand 11
+chemokine (C-X-C motif) ligand 11
+chemokine (C-X-C motif) ligand 12
+chemokine (C-X-C motif) ligand 13
+chemokine (CXC motif) ligand 13 (Bcell chemoattractant)
+chemokine (C-X-C motif) ligand 14
+chemokine (C-X-C motif) ligand 15
+chemokine (C-X-C motif) ligand 16
+chemokine (c-x-c motif) ligand 17
+chemokine (C-X-C motif) ligand 17
+chemokine (C-X-C motif) ligand 1 (melanoma growth stimulating activity, alpha)
+chemokine (C-X-C motif) ligand 2
+chemokine (C-X-C motif) ligand 3
+chemokine (c-x-c motif) ligand 4
+chemokine (CXC motif) ligand 4
+chemokine (c-x-c motif) ligand 5
+chemokine (C-X-C motif) ligand 5
+chemokine (C-X-C motif) ligand 6
+chemokine (CXC motif) ligand 6 (granulocyte chemotactic protein 2)
+chemokine (c-x-c motif) ligand 7
+chemokine (C-X-C motif) ligand 8
+Chemokine (C-X-C motif) ligand 8
+chemokine (c-x-c motif) ligand 9
+chemokine (C-X-C motif) ligand 9
+chemokine (C-X-C motif) receptor 1
+chemokine (C-X-C motif) receptor 2
+chemokine (C-X-C motif) receptor 3
+chemokine (C-X-C motif) receptor 4
+chemokine (C-X-C motif) receptor 5
+chemokine (C-X-C motif) receptor 6
+chemokine (C-X-C motif) receptor 7
+chemokine (CXC) receptor 2
+chemokine lec
+chemokine LEC
+Chemokine LEC
+chemokine-like factor
+chemokinelike factor
+Chemokine-like factor
+Chemokine-like Factor
+Chemokine-like_Factor
+chemokinelike factor 1
+chemokinelike factor 2
+chemokinelike factor 3
+chemokinelike factor 4
+chemokinelike factorlike protein CKLFH1
+chemokinelike factor super family 1
+chemokinelike factor superfamily 1
+chemokinelike factor super family 6
+chemokinelike factor superfamily 6
+chemokinelike factor super family 7
+chemokinelike factor superfamily 7
+chemokine-like factor superfamily member 1
+chemokinelike factor superfamily member 1
+Chemokine-like factor superfamily member 1
+chemokine-like factor superfamily member 6
+chemokinelike factor superfamily member 6
+Chemokine-like factor superfamily member 6
+chemokine-like factor superfamily member 7
+chemokinelike factor superfamily member 7
+Chemokine-like factor superfamily member 7
+chemokinelike factor super family member 7 variant 2
+chemokine N1
+chemokine orphan receptor 1
+Chemokine orphan receptor 1
+chemokine receptor CCR1
+chemokine receptor CCR10
+chemokine receptor CCR2
+chemokine receptor CCR3
+chemokine receptor CCR4
+chemokine receptor CCR5
+chemokine receptor CCR6
+chemokine receptor CCR7
+chemokine receptor CCR8
+chemokine receptor CCR9
+chemokine receptor CX3CR1
+chemokine receptor CXCR3
+chemokine receptor CXCR4
+chemokine receptor CXCR5
+chemokine receptor CXCR6
+chemokine receptor CXCR7
+chemokine receptor-like 1
+Chemokine receptor-like 1
+chemokine receptor-like 3
+Chemokine receptor-like 3
+chemokine receptor XCR1
+chemokine teck
+chemokine TECK
+Chemokine TECK
+chemokine tumor necrosis factor ligand superfamily member 10
+chemokine XC receptor 1
+Chemokine XC receptor 1
+chemotaxin
+chemr13
+ChemR13
+CHEMR13
+CHM1
+chm2
+ChM-I
+CHMI
+CHM-I
+chm-ii
+chm-II
+ChM-II
+choline acetyltransferase development factor
+cholinergic differentiation factor
+chondromodulin1
+chondromodulin-1
+Chondromodulin-1
+chondromodulinI
+chondromodulin I
+chondromodulin-I
+Chondromodulin-I
+chondromodulin ii
+chondromodulin-ii
+chondromodulinII
+chondromodulin II
+choriogonadotropin subunit beta variant 2
+chorionic gonadotropin, beta polypeptide 2
+Chromosome: 1
+Chromosome: 19
+CH-SP
+CIDX
+ciliary neurotrophic factor receptor
+ciliary neurotrophic factor receptor alpha
+ciliary neurotrophic factor receptor subunit alpha
+Ciliary neurotrophic factor receptor subunit alpha
+CINC-2a
+CINC-2b
+ciss2
+CISS2
+CITF22-45C1.4
+CKA-3
+ckb1
+ckb-1
+CKB1
+ckb10
+ckb-10
+CKb10
+CKb11
+ckb12
+ckb-12
+CKb12
+ckb15
+ckb-15
+Ckb15
+CKb4
+ckb6
+ckb-6
+Ckb-6
+CKb7
+ckb8
+ckb-8
+Ckb-8
+CKb8
+CKB-8
+ckb-8-1
+Ckb-8-1
+CKb9
+ck-beta-10
+CKbeta10
+CK-beta-10
+CK beta11
+CK beta-11
+ck-beta-15
+ckbeta-15
+Ck beta15
+ck-beta-6
+ckbeta-6
+CKbeta6
+CK-beta-6
+ck-beta-8
+ck(beta)-8
+ckbeta-8
+CK-beta-8
+CK-BETA-8
+C-Kit
+c-Kit ligand
+cKit ligand
+CKLF
+CKLF 
+CKLF1
+CKLF1_HUMAN
+CKLF2
+CKLF3
+CKLF4
+CKLF6_HUMAN
+CKLF7_HUMAN
+cklfh
+CKLFH
+cklfh1
+CKLFH1
+CKLF_HUMAN
+cklf-like marvel transmembrane domain containing 1
+CKLF-like MARVEL transmembrane domain containing 1
+cklf-like marvel transmembrane domain containing 6
+CKLF-like MARVEL transmembrane domain containing 6
+cklf-like marvel transmembrane domain containing 7
+CKLF-like MARVEL transmembrane domain containing 7
+CKLF-like MARVEL transmembrane domain-containing protein 1
+CKLFlike MARVEL transmembrane domaincontaining protein 1
+CKLF-like MARVEL transmembrane domain-containing protein 6
+CKLFlike MARVEL transmembrane domaincontaining protein 6
+CKLF-like MARVEL transmembrane domain-containing protein 7
+CKLFlike MARVEL transmembrane domaincontaining protein 7
+cklfsf1
+CKLFSF1
+cklfsf6
+CKLFSF6
+cklfsf7
+CKLFSF7
+CKR1
+CKR-1
+CKR2
+CKR2A
+CKR2B
+CKR3
+CKR4
+CKR5
+CKR-5
+CKRL1
+CKR-L1
+CKR-L2
+CKRL3
+CKR-L3
+CL3L1_HUMAN
+class II cytokine receptor CRF2/12
+class II cytokine receptor ZCYTOR7
+clc
+CLC
+clcf1
+clcf-1
+CLCF1
+CLCF1_HUMAN
+CLMF
+CLMF2
+CLMF p35
+CLMF p40
+cluster of differentiation 212
+c-Met
+c-met-related tyrosine kinase
+cmk
+CMK
+CMKAR1
+Cmkar2
+CMKAR2
+Cmkar3
+CMKAR3
+Cmkar4
+CMKBR1
+Cmkbr10
+Cmkbr1l2
+CMKBR2
+CMKBR3
+CMKBR4
+CMKBR5
+CMKBR6
+CMKBR7
+CMKBR8
+Cmkbr9
+CMKBR9
+CMKBRL1
+CMK-BRL1
+CMK-BRL-1
+CMKBRL2
+CMKDR1
+CMKOR1
+CMKR1
+c motif chemokine 1
+C motif chemokine 1
+c motif chemokine 2
+C motif chemokine 2
+C-MPL
+cmpl ligand
+C-mpl ligand
+cmtm1
+cmtm-1
+CMTM1
+CMTM1 
+cmtm6
+cmtm-6
+CMTM6
+CMTM6 
+cmtm7
+cmtm-7
+CMTM7
+CMTM7 
+CNTFR
+CNTFR-alpha
+CNTF receptor subunit alpha
+CNTFR_HUMAN
+colony-forming unit eosinophil growth stimulating factor
+colony promoting activity
+colony-stimulating factor
+Colony-stimulating factor
+colony stimulating factor 1 (macrophage)
+colony stimulating factor 1 receptor
+colony stimulating factor 2
+colony stimulating factor 2 (granulocyte-macrophage)
+colony stimulating factor 2 receptor, alpha, low-affinity (granulocyte-macrophage)
+colony stimulating factor 2 receptor alpha subunit
+colony-stimulating factor-2 receptor, beta, low-affinity
+colony stimulating factor 2 receptor, beta, low-affinity (granulocyte-macrophage)
+colony stimulating factor 3
+colony stimulating factor 3 (granulocyte)
+colony stimulating factor 3 receptor (granulocyte)
+colony-stimulating factor, eosinophil
+colonystimulating factor, eosinophil
+colonystimulating factor, multiple
+common cytokine receptor gamma chain
+connective tissue-activating peptide 3
+connective tissue-activating peptide iii
+connective tissueactivating peptide III
+cpa
+cr2
+cr-2
+CR-2
+cr3
+cr-3
+CR-3
+CRF2-1
+CRF2-10
+CRF2-12
+CRF2/12
+CRF2-4
+CRF2-8
+CRF2-9
+CRF2-S1
+CRF2X
+CRFB4
+crg10
+crg-10
+crg2
+crg-2
+Crg2
+CRIPTO
+cripto2
+cripto 2
+cripto-2
+CRIPTO-2
+cripto-2 growth factor
+cripto3
+cripto 3
+cripto-3
+CRIPTO3
+CRIPTO-3
+cripto-3 growth factor
+CRSDA
+CSF
+CSF1
+CSF-1
+CSF1 
+CSF1_HUMAN
+CSF1R
+CSF-1R
+CSF-1-R
+CSF-1 receptor
+CSF1R_HUMAN
+csf2
+csf-2
+CSF2
+CSF2 
+CSF2_HUMAN
+CSF2R
+CSF2RA
+CSF2RAY
+CSF2RB
+Csf2rb1
+CSF2R_HUMAN
+CSF2RX
+CSF2RY
+csf3
+csf-3
+CSF3
+CSF3 
+csf-309
+CSF3_HUMAN
+CSF3OS
+CSF3R
+CSF3R_HUMAN
+Csfg
+Csfgm
+Csfgmra
+Csfgr
+Csfm
+Csfmr
+csfmu
+Csfmu
+CSFR
+csif
+CSIF
+c-sis
+CT19
+CTACK
+CTAK
+ctap3
+ctap-3
+CTAP3
+ctapiii
+ctap iii
+ctap-iii
+CTAPIII
+CTAP-III
+CTAP-III(1-81)
+ct/il8
+ctla8
+ctla-8
+CTLA8
+CTLA-8
+ctl differentiation factor
+CTL differentiation factor
+cutaneous T-cell-attracting chemokine
+cutaneous Tcell attracting chemokine
+cutaneous Tcellattracting chemokine
+Cutaneous T-cell-attracting chemokine
+CVID
+CVID11
+CVID2
+CX2
+Cx3c
+CX3C1_HUMAN
+CX3C chemokine receptor 1
+C-X3-C CKR-1
+cx3cl1
+CX3CL1
+CX3CL1 
+cx3c membrane-anchored chemokine
+CX3C membrane-anchored chemokine
+CX3C membraneanchored chemokine
+c-x3-c motif chemokine 1
+C-X3-C motif chemokine 1
+CX3C motif chemokine 1
+CX3CR1
+cxc3
+CXC3
+cxc3c
+CXC3C
+CXC chemokine BLC
+CXC chemokine in breast and kidney
+CXC chemokine ligand 16
+CXC chemokine ligand 7
+C-X-C chemokine receptor type 1
+C-X-C chemokine receptor type 2
+C-X-C chemokine receptor type 3
+C-X-C chemokine receptor type 4
+C-X-C chemokine receptor type 5
+C-X-C chemokine receptor type 6
+C-X-C chemokine receptor type 7
+cxcl1
+cxcl-1
+CXCL1
+CXCL1 
+cxcl10
+cxcl-10
+CXCL10
+CXCL10 
+CXCL10(1-73)
+cxcl11
+cxcl-11
+CXCL11
+CXCL11 
+CXCL12
+CXCL12 
+cxcl-13
+CXCL13
+CXCL13 
+cxcl-14
+CXCL14
+CXCL14 
+cxcl-15
+Cxcl15
+CXCL15 
+cxcl-16
+CXCL16
+CXCL16 
+cxcl17
+cxcl-17
+CXCL17
+CXCL17 
+CXCL2
+CXCL2 
+CXCL2_HUMAN
+cxcl-3
+CXCL3
+CXCL3 
+CXCL3_HUMAN
+cxcl4
+cxcl-4
+CXCL4
+cxcl4l1
+CXCL4L1
+cxcl4v1
+CXCL4V1
+cxcl5
+cxcl-5
+CXCL5
+CXCL5 
+CXCL5_HUMAN
+CXCL6
+CXCL6 
+CXCL6_HUMAN
+cxcl7
+cxcl-7
+CXCL7
+CXCL7_HUMAN
+cxcl8
+cxcl-8
+CXCL8
+CXCL8 
+cxcl9
+cxcl-9
+CXCL9
+CXCL9 
+CXCL9_HUMAN
+CXCLG16
+c-x-c motif chemokine 1
+C-X-C motif chemokine 1
+CXC motif chemokine 1
+c-x-c motif chemokine 10
+C-X-C motif chemokine 10
+CXC motif chemokine 10
+c-x-c motif chemokine 11
+C-X-C motif chemokine 11
+CXC motif chemokine 11
+C-X-C motif chemokine 12
+C-X-C motif chemokine 13
+CXC motif chemokine 13
+C-X-C motif chemokine 14
+CXC motif chemokine 14
+C-X-C motif chemokine 15
+C-X-C motif chemokine 16
+CXC motif chemokine 16
+c-x-c motif chemokine 17
+C-X-C motif chemokine 17
+CXC motif chemokine 17
+C-X-C motif chemokine 2
+CXC motif chemokine 2
+C-X-C motif chemokine 3
+CXC motif chemokine 3
+c-x-c motif chemokine 4
+C-X-C motif chemokine 4
+CXC motif chemokine 4
+c-x-c motif chemokine 4 variant
+C-X-C motif chemokine 4 variant
+c-x-c motif chemokine 5
+C-X-C motif chemokine 5
+CXC motif chemokine 5
+C-X-C motif chemokine 6
+CXC motif chemokine 6
+c-x-c motif chemokine 7
+C-X-C motif chemokine 7
+CXC motif chemokine 7
+c-x-c motif chemokine 8
+C-X-C motif chemokine 8
+c-x-c motif chemokine 9
+C-X-C motif chemokine 9
+CXC motif chemokine 9
+CXCR1
+CXC-R1
+CXCR-1
+CXCR1_HUMAN
+CXCR2
+CXC-R2
+CXCR-2
+CXCR2 gene for IL8 receptor type B
+CXCR2_HUMAN
+CXCR3
+CXC-R3
+CXCR-3
+CXCR3_HUMAN
+CXCR4
+CXC-R4
+CXCR-4
+CXCR4_HUMAN
+CXCR5
+CXC-R5
+CXCR-5
+CXCR5_HUMAN
+CXCR6
+CXC-R6
+CXCR-6
+CXCR6_HUMAN
+CXCR7
+CXC-R7
+CXCR-7
+CXL10_HUMAN
+CXL11_HUMAN
+CXL13_HUMAN
+CXL14_HUMAN
+CXL16_HUMAN
+CY6
+cysteine-rich secreted protein A12-alpha-like 2
+cysteinerich secreted protein A12alphalike 2
+Cysteine-rich secreted protein A12-alpha-like 2
+cysteine-rich secreted protein FIZZ3
+cysteinerich secreted protein FIZZ3
+Cysteine-rich secreted protein FIZZ3
+cytokine cx1
+cytokine CX1
+cytokine cx2
+cytokine CX2
+Cytokine CX2
+cytokine-like protein zcyto7
+cytokine-like protein ZCYTO7
+cytokinelike protein ZCYTO7
+cytokine lix
+cytokine LIX
+cytokine ML1
+cytokine ML-1
+Cytokine ML-1
+cytokine p40
+cytokine P40
+Cytokine P40
+cytokine receptor
+cytokine receptor CD30
+cytokine receptor class-II CRF2-4
+cytokine receptor class-II member 1
+Cytokine receptor class-II member 1
+cytokine receptor class-II member 10
+Cytokine receptor class-II member 10
+cytokine receptor class-II member 12
+Cytokine receptor class-II member 12
+cytokine receptor class-II member 4
+Cytokine receptor class-II member 4
+cytokine receptor class-II member 8
+Cytokine receptor class-II member 8
+cytokine receptor class-II member 9
+Cytokine receptor class-II member 9
+cytokine receptor common beta chain
+cytokine receptor common gamma chain
+cytokine receptor common subunit beta
+Cytokine receptor common subunit beta
+cytokine receptor common subunit gamma
+Cytokine receptor common subunit gamma
+cytokine receptor family 2 member 1
+Cytokine receptor family 2 member 1
+cytokine receptor family 2 member 10
+Cytokine receptor family 2 member 10
+cytokine receptor family 2 member 12
+Cytokine receptor family 2 member 12
+cytokine receptor family 2 member 4
+Cytokine receptor family 2 member 4
+cytokine receptor family 2 member 8
+Cytokine receptor family 2 member 8
+cytokine receptor family 2 member 9
+Cytokine receptor family 2 member 9
+cytokine receptor family II, member 4
+cytokine receptor family type 2, soluble 1
+Cytokine receptor family type 2, soluble 1
+cytokine scm-1
+cytokine SCM1
+cytokine SCM-1
+Cytokine SCM-1
+cytokine SCM-1 beta
+cytokine SCM1 beta
+Cytokine SCM-1 beta
+cytokine synthesis inhibitory factor
+Cytokine synthesis inhibitory factor
+cytokine Zcyto10
+Cytokine Zcyto10
+cytokine Zcyto18
+Cytokine Zcyto18
+cytokine zcyto20
+cytokine Zcyto20
+Cytokine Zcyto20
+cytokine zcyto21
+cytokine Zcyto21
+Cytokine Zcyto21
+cytokine zcyto22
+cytokine Zcyto22
+Cytokine Zcyto22
+cytokine zcyto7
+cytokine Zcyto7
+Cytokine Zcyto7
+cytolytic differentiation factor for t-lymphocytes
+cytolytic t-lymphocyte differentiation factor
+cytotoxic lymphocyte maturation factor 1, p35
+cytotoxic lymphocyte maturation factor 35 kDa subunit
+Cytotoxic lymphocyte maturation factor 35 kDa subunit
+cytotoxic lymphocyte maturation factor 40 kDa subunit
+Cytotoxic lymphocyte maturation factor 40 kDa subunit
+cytotoxic t-cell differentiation factor
+cytotoxic t-lymphocyte-associated antigen 8
+cytotoxic T-lymphocyte-associated antigen 8
+cytotoxic Tlymphocyteassociated antigen 8
+Cytotoxic T-lymphocyte-associated antigen 8
+cytotoxic Tlymphocyteassociated protein 8
+cytotoxic T-lymphocyte inducer
+cytotoxic TRAIL receptor
+cytotoxic TRAIL receptor-2
+cytotoxic TRAIL receptor-3
+D001620
+D004815
+D004921
+D007370
+D007371
+D007375
+D007376
+D007377
+D007961
+D008233
+D008263
+D010978
+D010982
+D013491
+D013926
+D014165
+D014409
+D015847
+D015848
+D015850
+D015851
+D016173
+D016178
+D016179
+D016209
+D016211
+D016212
+D016215
+D016220
+D016222
+D016753
+D016898
+D016899
+D016906
+D017228
+D017370
+D018664
+D018793
+D018932
+D018945
+D018946
+D019089
+D019402
+D019409
+D019410
+D020381
+D020382
+D048069
+D053220
+D053222
+D053245
+D053264
+D053278
+D053282
+D053285
+D053300
+D053308
+D053326
+D053330
+D053380
+D053495
+D053582
+D053583
+D053590
+D053605
+D053683
+D053759
+D053760
+D053762
+D053765
+D053773
+D053781
+D053782
+D054357
+D054360
+D054365
+D054370
+D054371
+D054377
+D054382
+D054402
+D054405
+D054407
+D054410
+D054412
+D054413
+D054414
+D054415
+D054418
+D054421
+D054422
+D054423
+D054425
+D054426
+D054427
+D054428
+D055436
+D064094
+D12S370
+d17s136e
+D17S136E
+d17s1718
+D17S1718
+D1S166E
+D21S58
+D21S66
+D2S1473
+D2S201E
+D3F15S2
+DC/B-CK
+DCCK1
+DC-CK1
+dcip1
+Dcip1
+DcR1
+DCR1
+DCR1-TNFR
+DcR2
+DCR2
+DDR3
+death domain containing receptor for TRAIL/Apo-2L
+death domain receptor 3 soluble form
+death receptor 3
+Death receptor 3
+death receptor 4
+Death receptor 4
+death receptor 5
+Death receptor 5
+death receptor beta
+decoy receptor 1
+Decoy receptor 1
+decoy receptor 2
+Decoy receptor 2
+decoy TRAIL receptor without death domain
+Decoy TRAIL receptor without death domain
+delayed early response protein 6
+Delta Fas/APO-1/CD95
+dendritic cell and monocyte chemokine-like protein
+dendritic cell and monocyte chemokinelike protein
+Dendritic cell and monocyte chemokine-like protein
+dendritic cell chemokine 1
+Dendritic cell chemokine 1
+dendritic cell-derived TNF-like molecule
+Dendritic cell-derived TNF-like molecule
+dendritic cell inflammatory protein 1
+dennert line b-cell growth factor
+DER6
+D factor
+D-factor/LIF receptor
+DFNB39
+DIA
+dif
+DIF
+differentiation inducing factor
+differentiationinducing factor
+differentiation inducing factor for human monoblastic leukemia cells
+differentiation inhibitory activity
+differentiation-stimulating factor
+differentiationstimulating factor
+Differentiation-stimulating factor
+DIRA
+DIRS1
+dl-bcgf
+dmc
+DMC
+DNF15S2
+DPD1
+DR3
+dr3lg
+DR3LG
+DR4
+DR5
+DRY6
+DTL
+DVS27
+DVS27related protein
+early Tlymphocyte activation 1
+early T-lymphocyte activation 1 protein
+EBI1
+Ebi1h
+EBI1 ligand chemokine
+EBI1ligand chemokine
+EBI3
+EBI3 
+EBV-induced gene 3 protein
+EBVinduced gene 3 protein
+EBV-induced G protein-coupled receptor 1
+EBV-induced G-protein coupled receptor 1
+EC 2.7.10.1
+EC 2.7.10.1NP_757349.1
+EC 2.7.10.1NP_757350.1
+EC 2.7.10.1NP_757351.1
+EC 5.3.2.1
+EC 5.3.3.12
+ecgf
+ECGF
+ecgfa
+ECGFA
+ecgfb
+ECGFB
+ecgf-beta
+ecgf-(beta)
+ECGF-beta
+ECL
+edf
+EDF
+ednap
+edodekin alfa
+ef7
+Efficient Chemoattractant for Lymphocytes
+EGF
+EGF 
+EGF_HUMAN
+EGF-like TGF
+EGFR
+EGFR_HUMAN
+el4 b-cell growth factor
+el4-bcgf
+ELC
+embryo fibroblast protein 1
+emf-1
+emfilermin
+emoctakin
+Emoctakin
+ena78
+ena-78
+ENA78
+ENA-78
+ENA-78(1-78)
+ENA-78(9-78)
+enap
+Endothelial cell growth factor
+endothelial cell growth factor, alpha
+endothelial cell growth factor, beta
+endothelial cell neutrophil-activating peptide
+endothelial-derived neutrophil-activating peptide
+eocp
+eoCP
+EoCP
+eocp-1
+eo-csf
+eo-df
+eosinophil CC chemokine receptor 3
+eosinophil chemotactic cytokine
+Eosinophil chemotactic cytokine
+eosinophil chemotactic polypeptide-1
+eosinophil chemotactic protein
+Eosinophil chemotactic protein
+eosinophil chemotactic protein 2
+Eosinophil chemotactic protein 2
+eosinophil colony stimulating factor
+eosinophil colony-stimulating factor
+eosinophil differentiation factor
+Eosinophil differentiation factor
+eosinophil eotaxin receptor
+Eosinophil eotaxin receptor
+eosinophil stimulation promoter
+eotaxin
+Eotaxin
+eotaxin1
+eotaxin2
+eotaxin 2
+eotaxin-2
+Eotaxin-2
+eotaxin3
+eotaxin-3
+Eotaxin-3
+EP
+epidermal growth factor
+Epidermal growth factor
+Epidermal_growth_factor
+Epidermal Growth Factor
+epidermal growth factor-like cripto protein cr2
+epidermal growth factor-like cripto protein cr3
+epidermal growth factor-like cripto protein CR3
+epidermal growth factor receptor
+Epidermal growth factor receptor
+epithelial-derived neutrophil-activating protein 78
+epithelialderived neutrophilactivating protein 78
+Epithelial-derived neutrophil-activating protein 78
+EPO
+EPO 
+epoetin
+EPO_HUMAN
+EpoR
+EPOR
+EPO-R
+EPOR_HUMAN
+Epstein-Barr virus induced 3
+Epstein-Barr virus induced gene 1
+EpsteinBarr virus induced gene 3
+epstein-Barr virus-induced gene 3 protein
+epsteinBarr virusinduced gene 3 protein
+Epstein-Barr virus-induced gene 3 protein
+epstein-Barr virus-induced gene 3 protein homolog
+Epstein-Barr virus induced G-protein coupled receptor
+epstein-Barr virus-induced G-protein coupled receptor 1
+Epstein-Barr virus-induced G-protein coupled receptor 1
+epstein-Barr virus-induced molecule 1 ligand chemokine
+epsteinBarr virusinduced molecule 1 ligand chemokine
+Epstein-Barr virus-induced molecule 1 ligand chemokine
+ERBB
+ERBB1
+erythropoietin
+Erythropoietin
+erythropoietin receptor
+erythropoietin receptor 
+Erythropoietin receptor
+ESK2
+ESkine
+ESKINE
+esp
+ESS1
+Eta-1
+ETA-1
+etanercept
+ETGF
+EVI1
+exodus3
+FAA3
+fam3d
+familial progressive hyperpigmentation 2
+family of interleukin 1theta
+Family of interleukin 1-theta
+family with sequence similarity 3, member d
+Fas
+FAS
+FAS1
+FAS 827dupA
+Fas AMA
+fas antigen ligand
+Fas antigen ligand
+Fas cell surface death receptor
+FasL
+FASL
+FASLG
+FASLGPRO-short-label
+FASLG receptor
+Fas ligand
+Fas Ligand Protein
+fas ligand, TNF-like 
+Fas ligand (TNF superfamily, member 6)
+Fas-like protein
+FASPRO-short-label
+FAS receptor variant 9
+FASTM
+Fas (TNF receptor superfamily, member 6)
+FB22
+fdgi
+fdnap
+FEO
+fetal liver kinase 2
+Fetal liver kinase-2
+fgf1
+fgf-1
+FGF1
+FGF-1
+FGF1 
+FGF1_HUMAN
+FGF1PRO-short-label
+Fgf-1 (RELATED)
+fgf2
+fgf-2
+FGF2
+ FGF2
+FGF-2
+FGF2 
+FGF2_HUMAN
+FGF2PRO-short-label
+Fgf-2 (RELATED)
+fgfa
+fgf-a
+FGFA
+fgf-alpha
+fgf-(alpha)
+fgf(alpha)
+FGF-alpha
+FGFA (RELATED)
+fgfb
+FGFB
+fgf-beta
+fgf-(beta)
+fgf(beta)
+FGFB (RELATED)
+fiblaferon
+fibroblast derived differentiation inducing factor for human monoblastic leukemia cells
+fibroblast-derived growth inhibitor
+fibroblast-derived neutrophil-activating peptide
+fibroblast-derived neutrophil-activating protein
+fibroblastderived tumor cytotoxic factor
+fibroblast growth factor 1
+fibroblast growth factor-1
+Fibroblast growth factor 1
+Fibroblast Growth Factor 1
+Fibroblast Growth Factor-1
+Fibroblast_Growth_Factor-1
+fibroblast growth factor 1 (acidic)
+fibroblast growth factor 2
+fibroblast growth factor-2
+Fibroblast growth factor 2
+Fibroblast Growth Factor 2
+Fibroblast Growth Factor-2
+Fibroblast_Growth_Factor-2
+fibroblast growth factor 2 (basic)
+fibroblast interferon
+Fibroblast interferon
+fibroblast secretory protein
+fibronectin stimulating factor
+fibronectin type III domain containing 6
+Fibronectin type III domain containing 6
+Fic
+FIC
+fil1
+FIL1
+fil1d
+FIL1D
+fil1 delta
+fil1(delta)
+FIL1 delta
+FIL1(DELTA)
+fil1t
+FIL1T
+fil1 theta
+fil1-theta
+FIL1 theta
+FIL1-theta
+filgrastim
+FIM2
+finap
+fisp
+FISP
+FIZZ3
+FIZZ3 (RELATED)
+fkn
+FKN
+fksg75
+FKSG75
+FL
+FL cytokine receptor
+flj16015
+flj16806
+flj20396
+flj30846
+flj30992
+flj42735
+flj44234
+FLK2
+FLK-2
+Flt-3
+FLT3
+FLT-3
+FLT3_HUMAN
+Flt3L
+FLT3L
+FLT3LG
+FLT3L_HUMAN
+flt3 ligand
+Flt3 ligand
+FMS
+fms-like tyrosine kinase 3
+Fms-like tyrosine kinase 3
+FMS proto-oncogene
+fms-related tyrosine kinase 3 
+fms-related tyrosine kinase 3 ligand
+fms-related tyrosine kinase 3 ligand 
+Fms-related tyrosine kinase 3 ligand
+FNDC6
+found in inflammatory zone 3
+four alpha helix cytokine
+FPF
+FPH2
+fpt025
+fractalkine
+fractalkine receptor
+Fractalkine receptor
+fsf
+fsp
+FSP
+ftcf
+f-tcf
+F-TCF
+fusin
+Fusin
+G0/G1 switch regulatory protein 191
+G0/G1 switch regulatory protein 19-1
+G0/G1 switch regulatory protein 192
+G0/G1 switch regulatory protein 19-2
+G0S19-1
+g0s19-2
+G0S19-2
+g0s19-3
+ G0S19-3
+G-26
+G-26 T-lymphocyte-secreted protein
+G26 Tlymphocytesecreted protein
+gammaC
+gamma interferon
+gamma-interferon
+gamma-interferon-induced monokine
+gammainterferoninduced monokine
+Gamma-interferon-induced monokine
+gamma-ip10
+gammaIP10
+gamma IP10
+gamma-IP10
+Gamma-IP10
+gcf
+gcp
+gcp1
+gcp-1
+GCP1
+GCP-1
+GCP2
+GCP-2
+GCP/IL-8 protein I
+GCP/IL-8 protein II
+GCP/IL-8 protein III
+GCP/IL-8 protein IV
+GCP/IL-8 protein V
+GCP/IL-8 protein VI
+gcsf
+g-csf
+GCSF
+G-CSF
+GCSFR
+G-CSF-R
+G-CSF receptor
+gdcf2
+gdcf-2
+GDCF-2
+GDF15
+GDF-15
+GDF15 
+GDF15_HUMAN
+GIF
+g interferon
+gip10
+gip-10
+gIP-10
+GITR
+GITR-D
+GITRL
+GITR ligand
+GLIF
+glio703
+GLIO703
+glioblastoma-derived T-cell suppressor factor
+glioblastomaderived Tcell suppressor factor
+Glioblastoma-derived T-cell suppressor factor
+glucocorticoid-induced TNF-related ligand
+Glucocorticoid-induced TNF-related ligand
+glucocorticoid-induced TNFR-related protein
+Glucocorticoid-induced TNFR-related protein
+glucocorticoid-induced TNFR-related protein ligand
+glycoprotein gp34
+glycoprotein Gp34
+Glycoprotein Gp34
+glycosylation-inhibiting factor
+Glycosylation-inhibiting factor
+Gm1960
+gmcsf
+gm-csf
+GMCSF
+GM-CSF
+GM-CSF/IL-3/IL-5 receptor common beta-chain
+GM-CSF/IL-3/IL-5 receptor common beta subunit
+GMCSFR
+GM-CSF-R-alpha
+GMCSFR-alpha
+GM-CSF receptor alpha subunit
+GMR
+GMR-alpha
+gp130
+GP130
+gp130 of the rheumatoid arthritis antigenic peptide-bearing soluble form
+gp130, oncostatin M receptor
+gp34
+GP34
+gp39
+gp80
+Gpcr16
+Gpcr6
+GPR13
+GPR159
+GPR2
+GPR28
+GPR29
+GPR5
+GPR9
+GPR-9-6
+GPRCY4
+GPR-CY4
+GPRCY6
+GPR-CY6
+G protein-coupled receptor
+G protein-coupled receptor 13
+G-protein coupled receptor 13
+G-protein coupled receptor 159
+G protein-coupled receptor 2
+G-protein coupled receptor 2
+G protein-coupled receptor 28
+G-protein coupled receptor 28
+G protein-coupled receptor 29
+G-protein coupled receptor 29
+G protein-coupled receptor 5
+G-protein coupled receptor 5
+G protein-coupled receptor 9
+G-protein coupled receptor 9
+G-protein coupled receptor bonzo
+G-protein coupled receptor RDC1 homolog
+G-protein coupled receptor STRL33
+GPRV28
+granulocyte chemotactic factor
+granulocyte chemotactic peptide
+granulocyte chemotactic protein 1
+Granulocyte chemotactic protein 1
+granulocyte chemotactic protein 2
+Granulocyte chemotactic protein 2
+granulocyte colony stimulating factor
+granulocyte colony-stimulating factor
+granulocyte colonystimulating factor
+Granulocyte colony-stimulating factor
+Granulocyte Colony-Stimulating Factor
+Granulocyte_Colony_Stimulating_Factor
+granulocyte colony stimulating factor 3
+granulocyte-colony stimulating factor 3
+granulocyte colony-stimulating factor receptor
+Granulocyte colony-stimulating factor receptor
+granulocyte-macrophage colony stimulating factor
+granulocyte-macrophage colony-stimulating factor
+granulocytemacrophage colonystimulating factor
+Granulocyte-macrophage colony-stimulating factor
+Granulocyte_Macrophage_Colony-Stimulating_Factor
+Granulocyte-Macrophage Colony-Stimulating Factor
+granulocyte-macrophage colony stimulating factor 2
+granulocyte-macrophage colony-stimulating factor receptor alpha chain
+granulocyte-macrophage colony-stimulating factor receptor subunit alpha
+Granulocyte-macrophage colony-stimulating factor receptor subunit alpha
+GRO
+gro1
+GRO1
+GRO1 oncogene (melanoma growthstimulating activity)
+GRO1 oncogene (melanoma growth stimulating activity, alpha)
+GRO2
+GRO2 oncogene
+GRO3
+GRO3 oncogene
+groa
+GROa
+GROA
+GROA_HUMAN
+gro-alpha
+gro(alpha)
+GRO-alpha(1-73)
+GROalpha(173)
+GRO-alpha(6-73)
+GROb
+GROB
+grobeta
+Gro-beta
+GRO-beta(5-73)
+GRO-beta-T
+GROg
+GROG
+GROgamma
+GRO-gamma
+GRO-gamma(1-73)
+GROgamma(173)
+GRO-gamma(5-73)
+GRO/MGSA receptor
+growth differentiation factor 15
+growth/differentiation factor 15
+Growth/differentiation factor 15
+Growth Differentiation Factor 15
+growth factor receptor tyrosine kinase type III
+growth-regulated alpha protein
+growthregulated alpha protein
+growth-regulated protein beta
+growthregulated protein beta
+Growth-regulated protein beta
+growth-regulated protein gamma
+growthregulated protein gamma
+Growth-regulated protein gamma
+GTSF
+G-TSF
+GVHDS
+h174
+H174
+hbgf1
+hbgf-1
+HBGF1
+HBGF-1
+hbgf2
+hbgf-2
+HBGF-2
+hc11
+HC11
+HC14
+HC21
+hcc1
+hcc-1
+HCC-1
+HCC-1(1-74)
+HCC-1(9-74)
+HCC-1/HCC-3
+hcc2
+hcc-2
+HCC-2
+hcc3
+hcc-3
+HCC-3
+hcc4
+hcc-4
+HCC-4
+hcd40l
+hCD40L
+hCG_14621
+hCG_2011440
+hCG_2022374
+hcgf
+HDLS
+hematopoietic colony stimulating factor-309
+hematopoietic growth factor
+Hematopoietic growth factor
+hematopoietic growth factor KL
+Hematopoietic synergistic factor
+hematopoietin1
+hematopoietin-1
+Hematopoietin-1
+hemofiltrate cc-chemokine-1
+hemofiltrate CC chemokine 1
+hepapoietin a
+hepapoietin-a
+heparin-binding chemotaxis protein
+heparin-binding growth factor 1
+heparinbinding growth factor 1
+Heparin-binding growth factor 1
+heparin-binding growth factor 2
+heparinbinding growth factor 2
+Heparin-binding growth factor 2
+hepatocyte growth factor
+Hepatocyte Growth Factor
+Hepatocyte_Growth_Factor
+Hepatocyte growth factor beta chain
+hepatocyte growth factor (hepapoietin A; scatter factor)
+hepatocyte growth factor-like protein
+Hepatocyte growth factor-like protein
+hepatocyte growth factor-like protein homolog
+hepatocyte growth factor receptor
+Hepatocyte growth factor receptor
+hepatocyte growth inhibitory factor
+hepatocyte stimulating factor-1
+hepatocytestimulating factor III
+hepatopoeitinA
+hepatopoeitin-A
+hepatopoietinA
+Hepatopoietin-A
+HER1
+herpes virus entry mediator A
+herpesvirus entry mediator A
+Herpes virus entry mediator A
+Herpesvirus entry mediator A
+herpes virus entry mediator ligand
+herpesvirus entry mediatorligand
+herpesvirus entry mediator ligand
+Herpes virus entry mediator ligand
+Herpesvirus entry mediator ligand
+HGCN:14099
+hgf
+HGF
+HGF 
+hgfb
+HGFB
+HGF_HUMAN
+HGFL
+HGFL_HUMAN
+HGFR
+HGF receptor
+HGF/SF receptor
+hgi
+hGITRL
+HGNC:1060
+HGNC:10609
+HGNC:10610
+HGNC:10611
+HGNC:10612
+HGNC:10613
+HGNC:10614
+HGNC:10615
+HGNC:10616
+HGNC:10617
+HGNC:10618
+HGNC:10619
+HGNC:10620
+HGNC:10621
+HGNC:10622
+HGNC:10623
+HGNC:10624
+HGNC:10625
+HGNC:10626
+HGNC:10627
+HGNC:10628
+HGNC:10629
+HGNC:10630
+HGNC:10631
+HGNC:10632
+HGNC:10634
+HGNC:10635
+HGNC:10637
+HGNC:10638
+HGNC:10639
+HGNC:10640
+HGNC:10642
+HGNC:10643
+HGNC:10645
+HGNC:10646
+HGNC:10647
+HGNC:10672
+HGNC:11255
+HGNC:11346
+HGNC:11702
+HGNC:11703
+HGNC:11765
+HGNC:11766
+HGNC:11768
+HGNC:11769
+HGNC:11772
+HGNC:11773
+HGNC:11774
+HGNC:11795
+HGNC:11892
+HGNC:11904
+HGNC:11905
+HGNC:11906
+HGNC:11907
+HGNC:11908
+HGNC:11909
+HGNC:11910
+HGNC:11912
+HGNC:11913
+HGNC:11914
+HGNC:11916
+HGNC:11917
+HGNC:11918
+HGNC:11919
+HGNC:11920
+HGNC:11922
+HGNC:11923
+HGNC:11924
+HGNC:11925
+HGNC:11926
+HGNC:11927
+HGNC:11928
+HGNC:11929
+HGNC:11930
+HGNC:11931
+HGNC:11932
+HGNC:11934
+HGNC:11935
+HGNC:11936
+HGNC:11937
+HGNC:11938
+HGNC:11939
+HGNC:13253
+HGNC:13700
+HGNC:13765
+HGNC:14900
+HGNC:14901
+HGNC:15488
+HGNC:15552
+HGNC:15561
+HGNC:15741
+HGNC:1602
+HGNC:16028
+HGNC:1603
+HGNC:1604
+HGNC:1605
+HGNC:1606
+HGNC:1607
+HGNC:1608
+HGNC:1609
+HGNC:1610
+HGNC:1625
+HGNC:16404
+HGNC:16642
+HGNC:16647
+HGNC:1678
+HGNC:16830
+HGNC:17005
+HGNC:17119
+HGNC:17412
+HGNC:18153
+HGNC:18163
+HGNC:18363
+HGNC:18364
+HGNC:18365
+HGNC:18584
+HGNC:19100
+HGNC:19157
+HGNC:19172
+HGNC:19177
+HGNC:19178
+HGNC:19232
+HGNC:19372
+HGNC:20389
+HGNC:2170
+HGNC:21714
+HGNC:23692
+HGNC:24066
+HGNC:2432
+HGNC:2433
+HGNC:2434
+HGNC:2435
+HGNC:2436
+HGNC:2438
+HGNC:2439
+HGNC:2558
+HGNC:2561
+HGNC:28529
+HGNC:30142
+HGNC:30554
+HGNC:3129
+HGNC:3229
+HGNC:3236
+HGNC:3415
+HGNC:3416
+HGNC:3665
+HGNC:3676
+HGNC:3765
+HGNC:3766
+HGNC:4474
+HGNC:4540
+HGNC:4602
+HGNC:4603
+HGNC:4604
+HGNC:4893
+HGNC:5417
+HGNC:5418
+HGNC:5419
+HGNC:5420
+HGNC:5421
+HGNC:5422
+HGNC:5423
+HGNC:5424
+HGNC:5425
+HGNC:5426
+HGNC:5427
+HGNC:5428
+HGNC:5429
+HGNC:5432
+HGNC:5433
+HGNC:5434
+HGNC:5438
+HGNC:5439
+HGNC:5440
+HGNC:5962
+HGNC:5964
+HGNC:5965
+HGNC:5966
+HGNC:5967
+HGNC:5969
+HGNC:5970
+HGNC:5971
+HGNC:5972
+HGNC:5973
+HGNC:5974
+HGNC:5975
+HGNC:5977
+HGNC:5978
+HGNC:5980
+HGNC:5981
+HGNC:5982
+HGNC:5983
+HGNC:5984
+HGNC:5985
+HGNC:5986
+HGNC:5988
+HGNC:5990
+HGNC:5991
+HGNC:5992
+HGNC:5993
+HGNC:5994
+HGNC:6000
+HGNC:6001
+HGNC:6002
+HGNC:6003
+HGNC:6004
+HGNC:6005
+HGNC:6006
+HGNC:6008
+HGNC:6009
+HGNC:6010
+HGNC:6011
+HGNC:6012
+HGNC:6014
+HGNC:6015
+HGNC:6016
+HGNC:6017
+HGNC:6018
+HGNC:6019
+HGNC:6021
+HGNC:6023
+HGNC:6024
+HGNC:6025
+HGNC:6026
+HGNC:6027
+HGNC:6029
+HGNC:6030
+HGNC:6342
+HGNC:6343
+HGNC:6550
+HGNC:6596
+HGNC:6597
+HGNC:6709
+HGNC:6711
+HGNC:6718
+HGNC:7029
+HGNC:7097
+HGNC:7098
+HGNC:7217
+HGNC:7380
+HGNC:7381
+HGNC:8506
+HGNC:8507
+HGNC:8799
+HGNC:8800
+HGNC:8803
+HGNC:8804
+HGNC:8861
+HGNC:8862
+HGNC:9240
+high affinity IL-2 receptor beta subunit
+high affinity IL-2 receptor subunit beta
+High affinity IL-2 receptor subunit beta
+high affinity interleukin-8 receptor A
+High affinity interleukin-8 receptor A
+high affinity interleukin-8 receptor B
+High affinity interleukin-8 receptor B
+higm1
+HIGM1
+HIL-10R
+hIL-17R
+hIL-3Ra
+HILDA
+hIRH
+HIV-1 fusion coreceptor
+hl-60-derived apoptosis inducing factor
+hLECT2
+HM145
+HM89
+hmrp-2a
+hmrp-2b
+HMRP-2B
+HMW-BCGF
+hodgkin's cell growth factor
+HOMG4
+homolog of mouse 4-1BB
+homolog of mouse 41BBL
+homolog of mouse T cell and mast cell growth factor 40
+hp1
+hp40
+HP40
+hpaec survival factor
+hpgf
+hpta
+HPTA
+hrankl2
+hRANKL2
+hSDF-1
+hsf
+HSF
+hsf-1
+HSIL5R3
+hsmcr30
+HSMCR30
+HSPC224
+hst19289
+HSY3RR
+human interferon alpha/beta receptor
+human interleukin in DA cells
+human mip-related protein 2a
+human pulmonary artery endothelial cell-derived survival factor
+humig
+Humig
+HuMIG
+HveA
+HVEA
+HVEM
+hveml
+hvem-l
+HVEML
+HVEM-L
+HXCP1 (RELATED)
+hybridoma growth factor
+Hybridoma growth factor
+hybridoma/plasmacytoma growth factor
+I10R1_HUMAN
+I10R2_HUMAN
+I11RA_HUMAN
+I12R1_HUMAN
+I12R2_HUMAN
+I13R1_HUMAN
+I13R2_HUMAN
+I15RA_HUMAN
+I17RA_HUMAN
+I20RA_HUMAN
+I20RB_HUMAN
+I22R1_HUMAN
+I22R2_HUMAN
+I-309
+I36RA_HUMAN
+iaif
+ia inducing factor
+IBGC4
+IBGC5
+iboctadekin
+Iboctadekin
+ICD1
+ICD2
+ICIL-1RA
+IDDM10
+IDDM22
+Ifa6
+Ifa7
+Ifa8
+Ifar
+ifb
+IFB
+iff
+IFF
+ifg
+IFG
+IFGR2
+ifi
+IFI
+ifi10
+Ifi10
+IFI10
+IFL
+IFN
+IFN1
+IFN10_HUMAN
+IFN14_HUMAN
+IFN16_HUMAN
+IFN17_HUMAN
+IFN21_HUMAN
+ifna
+ifn-a
+IFNa
+IFN-a
+IFNA
+IFNA1
+IFNA1 
+ifna10
+IFNA10
+IFNA10 
+Ifna13
+IFNA13
+IFNA13 
+IFNA14
+IFNA14 
+IFNA16
+IFNA16 
+ifna17
+IFNA17
+IFNA17 
+IFNA1_HUMAN
+IFNA2
+IFNA2 
+IFNA21
+IFNA21 
+IFNA2B
+IFNA2_HUMAN
+IFNA4
+IFNA4 
+IFNA4_HUMAN
+IFNA5
+IFNA5 
+IFNA5_HUMAN
+IFNA6
+IFNA6 
+IFNA6_HUMAN
+IFNA7
+IFNA7 
+IFNA7_HUMAN
+Ifna8
+IFNA8
+IFNA8 
+IFNA8_HUMAN
+IFNABR
+IFNA-J
+ifn-alpha
+ifn(alpha)
+ifn{alpha}
+IFN alpha
+IFN-alpha
+IFN-ALPHA
+ifn-alpha 10
+ifn-alpha-10
+IFNalpha10
+IFN-alpha-10
+IFN-alpha-1/13
+IFNalpha1/13
+IFN-alpha-13
+IFNalpha14
+IFN-alpha-14
+IFNalpha16
+IFN-alpha-16
+ifn-alpha 17
+ifn-alpha-17
+IFNalpha17
+IFN-alpha-17
+IFNalpha 1b
+IFNalpha2
+IFN-alpha-2
+IFNalpha21
+IFN-alpha-21
+IFNalpha4
+IFN-alpha-4
+IFN-alpha4a
+IFN-alpha-5
+IFNalpha6
+IFN-alpha-6
+IFNalpha7
+IFN-alpha-7
+IFNalpha 7
+IFNalpha8
+IFN-alpha-8
+IFN-alphaA
+IFN-alphaB
+IFN-alpha/beta receptor 1
+IFN-alpha/beta receptor 2
+IFN-alpha binding protein
+IFN-alphaC
+IFN-alphaD
+IFN-alphaG
+IFN-alphaH
+IFN-alphaI
+IFN-alphaJ
+IFNalphaJ1
+IFN-alpha-J1
+IFN-alphaK
+IFNalphaNprotein
+IFN-alphaO
+IFN-alpha-REC
+IFNAR
+IFNAR1
+IFNAR2
+IFNARB
+ifnb
+ifn b
+ifn-b
+IFNb
+IFN-b
+IFNB
+ifnb1
+IFNB1
+IFNB1 
+ifnb2
+IFNB2
+ifnbeta
+ifn beta
+ifn {beta}
+ifn-beta
+ifn-{beta}
+ifn{beta}
+IFNbeta
+IFN beta
+IFN-beta
+ifn-beta-2
+IFNbeta2
+IFN-beta-2
+IFNB_HUMAN
+IFNBR
+ifne
+ifn-e
+IFNE
+IFN-E
+IFNE 
+ifne1
+IFNE1
+IFNE_HUMAN
+ifn-epsilon
+IFNepsilon
+IFN-epsilon
+ifng
+ifn-g
+IFN-g
+IFNG
+IFNG 
+ifn-gamma
+IFNgamma
+IFN gamma
+IFN-gamma
+ifn-gamma inducing factor
+ifn-gamma-inducing factor
+IFN-gamma-inducing factor
+IFNgammainducing factor
+IFN-gamma-R1
+IFN-gamma-R2
+IFN-gamma receptor 1
+IFN-gamma receptor 2
+IFNG_HUMAN
+Ifngr
+IFNGR
+IFNGR1
+IFNGR2
+IFNGT1
+IFNK
+IFNK 
+IFNkappa
+IFN-kappa
+IFNK_HUMAN
+ifnl1
+IFNL1
+IFNL1 
+IFNL1_HUMAN
+ifnl2
+IFNL2
+IFNL2 
+IFNL2_HUMAN
+ifnl3
+IFNL3
+IFNL3 
+IFNL3_HUMAN
+ifnl4
+IFNL4
+ifn lambda-1
+ifn-lambda-1
+IFNlambda1
+IFN-lambda-1
+ifn-lambda-2
+IFNlambda2
+IFN-lambda-2
+ifn-lambda-3
+IFNlambda3
+IFN-lambda-3
+ifn-lambda-4
+IFNlambda4
+IFN-lambda-4
+IFN-lambda R1
+IFN-lambda-R1
+IFN-lambda receptor 1
+IFNLR
+IFNLR1
+IFN-R
+IFN-R-1
+IFN-R-2
+ifnt1
+Ifnt1
+IFNT1
+IFN type I
+IFRC
+iga-ef
+iga enhancing factor
+ige-ef
+ige enhancing factor
+igg1-enhancing factor
+igg1 induction factor
+igg1-induction factor
+IGG1 induction factor
+igif
+IGIF
+igm
+IGM
+il1
+il 1
+il-1
+IL1
+IL 1
+IL-1
+il10
+il-10
+IL10
+IL 10
+IL-10
+IL10 
+il10a
+il-10a
+IL10A
+il10b
+il-10b
+IL10B
+il10c
+il-10c
+IL-10C
+il10d
+il-10d
+IL10D
+IL10_HUMAN
+il-10-inducible chemokine
+IL-10-inducible chemokine
+IL10inducible chemokine
+IL10R
+IL-10R1
+IL-10R2
+IL10RA
+IL-10RA
+IL10RB
+IL-10RB
+IL-10 receptor subunit alpha
+IL-10 receptor subunit beta
+il-10-related t-cell-derived-inducible factor
+IL-10-related T-cell-derived-inducible factor
+IL10related Tcellderived inducible factor
+IL10related Tcellderivedinducible factor
+IL-10R subunit 1
+IL-10R subunit 2
+IL-10R subunit alpha
+IL-10R subunit beta
+il11
+il-11
+IL11
+IL 11
+IL-11
+IL11 
+IL11_HUMAN
+IL11RA
+IL-11RA
+IL-11R-alpha
+IL-11 R-alpha-locus chemokine
+IL11 Ralphalocus chemokine
+IL-11 receptor subunit alpha
+IL-11R subunit alpha
+il12
+il 12
+il-12
+IL12
+IL 12
+IL-12
+IL12A
+IL-12A
+IL12A 
+IL12A_HUMAN
+IL12B
+IL-12B
+IL12B 
+IL12B_HUMAN
+il-12p70
+il-12 p70
+IL12R
+IL12RB
+IL12RB1
+IL-12RB1
+IL12RB2
+IL-12RB2
+IL-12R-beta-1
+IL-12R-BETA1
+IL-12R-beta-2
+IL-12 receptor beta component
+IL-12 receptor subunit beta-1
+IL-12 receptor subunit beta-2
+IL-12R subunit beta-1
+IL-12R subunit beta-2
+IL-12 subunit p35
+IL12, subunit p35
+IL-12 subunit p40
+IL12 subunit p40
+IL12, subunit p40
+il13
+il-13
+IL13
+IL 13
+IL-13
+IL13 
+IL13BP
+IL13_HUMAN
+IL13R
+IL-13R
+IL-13Ra
+IL13RA
+IL13RA1
+IL-13RA1
+IL13RA2
+IL-13RA2
+IL-13R-alpha-1
+IL-13R-alpha-2
+IL13 receptor alpha-1 chain
+IL-13 receptor subunit alpha-1
+IL-13 receptor subunit alpha-2
+IL-13R subunit alpha-1
+IL-13R subunit alpha-2
+il-14
+IL-14
+IL14 
+il15
+il-15
+IL15
+IL 15
+IL-15
+IL15 
+IL15_HUMAN
+IL-15Ra
+IL15RA
+IL-15RA
+IL-15R-alpha
+IL15RB
+IL-15 receptor subunit alpha
+il16
+il-16
+IL16
+IL 16
+IL-16
+IL16 
+IL16_HUMAN
+il17
+il-17
+IL17
+IL 17
+IL-17
+il17a
+il-17a
+IL17A
+IL-17A
+IL17A 
+il17b
+il-17b
+Il17b
+IL17B
+IL-17B
+IL17B 
+IL17B_HUMAN
+il17c
+il-17c
+IL17C
+IL-17C
+IL17C 
+IL17C_HUMAN
+il17d
+il-17d
+IL17D
+IL-17D
+IL17D 
+IL17D_HUMAN
+il17e
+il-17e
+IL17E
+IL-17E
+il17f
+il-17f
+IL17F
+IL-17F
+IL17F 
+IL17F_HUMAN
+IL17_HUMAN
+IL17R
+IL17RA
+IL-17RA
+IL-17 receptor A
+il18
+il-18
+IL18
+IL 18
+IL-18
+IL18 
+IL18_HUMAN
+IL18PRO-short-label
+IL18R1
+IL-18R1
+IL-18R-1
+IL18R1PRO-short-label
+IL18RA
+IL18Ralpha2
+IL18R_HUMAN
+il19
+il-19
+IL19
+IL-19
+IL19 
+IL19_HUMAN
+IL1A
+IL-1A
+IL1A 
+IL1A_HUMAN
+IL-1alpha
+IL-1 alpha
+IL1 alpha
+IL1-ALPHA
+IL1B
+IL1B 
+IL-1beta
+IL-1 beta
+IL1 beta
+IL1-BETA
+IL1B_HUMAN
+il-1 delta
+IL-1 delta
+il1e
+IL1E
+il-1 epsilon
+IL1epsilon
+IL-1 epsilon
+IL1 epsilon
+IL1(EPSILON)
+IL1F1
+il1f10
+IL1F10
+IL-1F10
+IL1F10 
+IL1F10 (canonical form IL1F10a)
+IL1F11
+IL-1F11
+IL1F2
+IL1F3
+il1f4
+IL1F4
+il1f5
+il-1f5
+IL1F5
+IL-1F5
+IL1F5 (Canonical product IL1F5a)
+IL1F5 (IL1HY1, FIL1delta, IL1RP3, IL1L1, IL1delta)
+il1f9
+il-1f9
+IL1F9
+IL-1F9
+IL1FA_HUMAN
+il-1g
+IL-1g
+il-1gamma
+il1 gamma
+il1-gamma
+IL-1 gamma
+IL1 gamma
+il1h1
+il-1h1
+IL1H1
+IL-1H1
+il1h3
+il-1h3
+Il1h3
+IL-1H3
+il1hy1
+il-1hy1
+IL1HY1
+IL-1HY1
+il1hy2
+il-1hy2
+IL1HY2
+IL-1HY2
+IL1 inhibitor
+il1l1
+il-1l1
+IL1L1
+IL-1L1
+IL1R
+Il-1r1
+IL1R1
+IL-1R-1
+IL1R1_HUMAN
+Il-1r2
+IL1R2
+IL-1R-2
+IL1R2_HUMAN
+IL-1ra
+IL1RA
+IL-1ra3
+il-1ra homolog 1
+IL-1ra homolog 1
+IL1ra homolog 1
+IL1RA_HUMAN
+IL-1R-alpha
+IL1RB
+IL-1R-beta
+IL1 receptor-related protein
+il-1-related protein 2
+IL-1-related protein 2
+IL1 related protein 2
+IL1related protein 2
+il-1-related protein 3
+IL-1-related protein 3
+IL1 related protein 3
+IL1RN
+IL-1RN
+IL1RN 
+IL1RN (IL1F3)
+il1rp2
+il-1rp2
+IL1RP2
+IL-1RP2
+il1rp3
+il-1rp3
+IL1RP3
+IL-1RP3
+IL-1Rrp
+IL1R-rp
+IL1RRP
+IL1RT1
+IL-1RT1
+IL-1RT-1
+IL-1RT2
+IL-1RT-2
+IL-1RT2c
+il1 theta
+il1-theta
+IL-1 theta
+IL1 theta
+IL1-theta
+IL-1 type II receptor
+il2
+il-2
+IL2
+IL 2
+IL-2
+IL2 
+il20
+il-20
+IL20
+IL-20
+IL20 
+IL20_HUMAN
+IL-20R1
+IL-20R2
+IL-20Ra
+IL20RA
+IL-20RA
+IL-20R-alpha
+IL-20Rb
+IL20RB
+IL-20RB
+IL-20R-beta
+IL-20 receptor subunit alpha
+IL-20 receptor subunit beta
+il-21
+IL21
+IL-21
+IL21 
+IL21_HUMAN
+IL21R
+IL-21R
+IL-21 receptor
+IL21R_HUMAN
+il22
+il-22
+IL22
+IL-22
+IL22 
+Il22a
+IL-22a
+IL22BP
+IL-22BP
+IL22_HUMAN
+IL22R
+IL22R1
+IL22RA1
+IL-22RA1
+IL22RA2
+IL-22RA2
+IL-22R-alpha-1
+IL-22R-alpha-2
+IL-22 receptor subunit alpha-1
+IL-22 receptor subunit alpha-2
+IL23
+IL 23
+IL-23
+IL23A
+IL-23A
+IL-23-A
+IL23A 
+IL23A_HUMAN
+IL23p19
+IL-23p19
+IL23P19
+IL23R
+IL-23R
+IL-23 receptor
+IL23R_HUMAN
+IL-23 subunit alpha
+IL23 subunit alpha
+IL-23 subunit p40
+il24
+il-24
+IL24
+IL-24
+IL24 
+IL24_HUMAN
+il25
+il-25
+IL25
+IL-25
+IL25 
+IL25_HUMAN
+il26
+il-26
+IL26
+IL-26
+IL26 
+IL26_HUMAN
+il-27
+IL27
+ IL 27
+IL-27
+IL27 
+IL27A
+IL-27A
+IL-27-A
+IL27-A
+IL27A_HUMAN
+IL27B
+IL-27B
+IL27B_HUMAN
+IL27p28
+IL27 p28 subunit
+IL27 subunit
+IL-27 subunit alpha
+IL27 subunit alpha
+IL-27 subunit beta
+IL27 subunit beta
+Il28
+il28a
+il-28a
+IL28A
+IL-28A
+il28b
+il-28b
+IL28B
+IL-28B
+il28c
+il-28c
+IL28C
+IL-28C
+IL-28R1
+IL28RA
+IL-28RA
+IL-28R-alpha
+IL-28 receptor subunit alpha
+il29
+il-29
+IL29
+IL-29
+IL2_HUMAN
+Il2r
+IL2R
+IL2RA
+IL-2-RA
+IL2-RA
+IL2RA_HUMAN
+IL2RB
+IL-2RB
+IL2RB_HUMAN
+IL-2 receptor subunit alpha
+IL-2 receptor subunit beta
+IL-2 receptor subunit gamma
+IL2RG
+IL-2RG
+IL2RG_HUMAN
+IL-2R subunit alpha
+IL-2R subunit beta
+IL-2R subunit gamma
+il3
+il-3
+IL3
+IL 3
+IL-3
+IL3 
+IL30
+IL-30
+il-31
+IL31
+IL-31
+IL31 
+IL31_HUMAN
+IL-31RB
+IL-31R-beta
+IL-31 receptor subunit beta
+IL-31R subunit beta
+il32
+il-32
+IL32
+IL-32
+IL32 
+il-32alpha
+il32-alpha
+IL-32alpha
+il-32beta
+il32-beta
+IL-32beta
+il-32delta
+il32-delta
+IL-32delta
+il-32epsilon
+il32-epsilon
+il-32gamma
+il32-gamma
+IL-32gamma
+IL32_HUMAN
+il-32zeta
+il32-zeta
+il-33
+IL33
+IL-33
+IL33 
+IL33_HUMAN
+il34
+il-34
+IL34
+IL-34
+IL34 
+IL34_HUMAN
+il-35
+IL35
+IL35 subunit
+IL36G
+IL36G 
+IL36G_HUMAN
+IL36RA
+IL36RN
+IL36RN 
+IL-38
+IL3_HUMAN
+IL3R
+IL3RA
+IL-3RA
+IL3RA_HUMAN
+IL-3R-alpha
+IL3RB
+Il3rb1
+IL3RB_HUMAN
+IL-3 receptor subunit alpha
+IL-3R subunit alpha
+IL3RX
+IL3RY
+il4
+il-4
+IL4
+IL 4
+IL-4
+IL4 
+IL-4-binding protein
+IL4-BP
+IL4_HUMAN
+il-4-induced secreted protein
+IL-4-induced secreted protein
+IL4induced secreted protein
+IL4R
+IL4RA
+IL-4RA
+IL-4RAA
+IL4RA_HUMAN
+IL-4R-alpha
+IL-4 receptor subunit alpha
+IL4R nirs variant 1
+IL-4R subunit alpha
+il5
+il-5
+IL5
+IL 5
+IL-5
+IL5 
+IL5_HUMAN
+IL5R
+IL5RA
+IL-5RA
+IL5RA_HUMAN
+IL-5R-alpha
+IL5RB
+IL-5 receptor subunit alpha
+IL-5R subunit alpha
+il6
+il-6
+IL6
+IL 6
+IL-6
+IL6 
+IL6_HUMAN
+IL6QA
+IL6R
+IL-6R 1
+IL-6R-1
+Il6ra
+IL6RA
+IL-6RA
+IL6RA_HUMAN
+IL-6R-alpha
+IL-6RB
+IL-6R-beta
+IL6RB_HUMAN
+IL-6 receptor subunit alpha
+IL-6 receptor subunit beta
+IL6RQ
+IL-6R subunit alpha
+IL-6R subunit beta
+IL6ST
+il7
+il-7
+IL7
+IL 7
+IL-7
+IL7 
+IL7_HUMAN
+IL7R
+IL-7RA
+IL7RA_HUMAN
+IL-7R-alpha
+IL-7R-alphaA
+IL-7 receptor subunit alpha
+IL-7R subunit alpha
+il8
+il-8
+IL8
+IL 8
+IL-8
+IL-8(1-77)
+IL-8(9-77)
+IL8_HUMAN
+IL8/NAP1 form I
+IL8/NAP1 form II
+IL8/NAP1 form III
+IL8/NAP1 form IV
+IL8/NAP1 form V
+IL8/NAP1 form VI
+IL8R1
+IL8R2
+IL8RA
+IL-8R A
+IL8RB
+IL-8R B
+IL8RBA
+IL-8 receptor type 1
+IL-8 receptor type 2
+il9
+il-9
+IL9
+IL 9
+IL-9
+IL9 
+IL9_HUMAN
+IL9R
+IL-9R
+IL-9 receptor
+IL9R_HUMAN
+ILA
+ILC
+il-d110
+IL-D110
+ilhp1
+ilinck
+ILINCK
+ILRA
+il-t
+iltif
+il-tif
+ILTIF
+IL-TIF
+iltifa
+Iltifa
+il-tif alpha
+IL-TIF alpha
+IMAC
+IMD16
+imd3
+IMD3
+IMD4
+IMF1
+immune activation protein 2
+immune interferon
+Immune interferon
+immune interferon receptor 1
+INA5
+INAR1_HUMAN
+INAR2_HUMAN
+induced by lymphocyte activation (ILA)
+INFA
+INFA2
+INFA4
+INFA5
+INFE1
+inflammatory cytokine I309
+INGR1_HUMAN
+INGR2_HUMAN
+INLR1_HUMAN
+inp10
+inp-10
+INP10
+insulin-dependent diabetes mellitus 10
+intercrine/chemokine MARC
+intercrine reduced in hepatomas
+Intercrine reduced in hepatomas
+Interferon a
+Interferon-a
+interferon alpha
+interferon, alpha
+Interferon alpha
+Interferon-alpha
+interferonalpha1
+interferon alpha-1
+interferon, alpha 1
+Interferon_alpha_1
+Interferon-alpha 1
+interferon alpha10
+interferon alpha 10
+interferon alpha-10
+interferon_alpha_10
+interferon-alpha 10
+interferon, alpha 10
+interferon, alpha-10
+Interferon alpha-10
+interferon alpha1/13
+Interferon alpha-1/13
+interferon alpha-13
+interferon, alpha 13
+Interferon_alpha_13
+Interferon-alpha 13
+interferon alpha14
+interferon alpha-14
+interferon, alpha 14
+Interferon alpha-14
+Interferon_alpha_14
+Interferon-alpha 14
+interferon alpha16
+interferon alpha-16
+interferon, alpha 16
+Interferon alpha-16
+Interferon_alpha_16
+Interferon-alpha 16
+interferon alpha17
+interferon alpha 17
+interferon alpha-17
+interferon_alpha_17
+interferon-alpha 17
+interferon-alpha-17
+interferon, alpha 17
+interferon, alpha-17
+Interferon alpha-17
+interferon alpha 1b
+interferon alpha2
+interferon alpha-2
+interferon, alpha 2
+Interferon alpha-2
+Interferon_alpha_2
+Interferon-alpha 2
+interferon alpha21
+interferon alpha-21
+interferon, alpha 21
+Interferon alpha-21
+Interferon_alpha_21
+Interferon-alpha 21
+interferon alpha 2a
+interferon alpha 2b
+interferon alpha4
+interferon alpha-4
+interferon, alpha 4
+Interferon alpha-4
+Interferon_alpha_4
+Interferon-alpha 4
+interferon alpha4B
+interferon alpha-4B
+Interferon alpha-4B
+interferon alpha5
+interferon alpha-5
+interferon, alpha 5
+Interferon alpha-5
+Interferon_alpha_5
+Interferon-alpha 5
+interferon alpha54
+interferon alpha-54
+Interferon alpha-54
+interferon alpha6
+interferon alpha-6
+interferon, alpha 6
+Interferon alpha-6
+Interferon_alpha_6
+Interferon-alpha 6
+interferon alpha61
+interferon alpha-61
+Interferon alpha-61
+interferon alpha-6l
+interferon alpha6L
+interferon alpha-6L
+Interferon alpha-6L
+interferon alpha7
+interferon alpha-7
+interferon, alpha 7
+Interferon alpha-7
+Interferon_alpha_7
+Interferon-alpha 7
+interferon alpha76
+interferon alpha-76
+Interferon alpha-76
+interferon alpha8
+interferon alpha-8
+interferon, alpha 8
+Interferon alpha-8
+Interferon_alpha_8
+Interferon-alpha 8
+interferon alpha88
+interferon alpha 88
+interferon alpha-88
+Interferon alpha-88
+interferon alpha A
+interferon alpha-A
+Interferon alpha-A
+interferon alphaB
+interferon alpha-B
+interferon alphaB'
+Interferon alpha-B
+interferon alphaB2
+interferon alpha-B2
+Interferon alpha-B2
+interferon (alpha, beta and omega) receptor 1
+interferon (alpha, beta and omega) receptor 2
+interferon alpha/beta receptor 1
+Interferon alpha/beta receptor 1
+interferon alpha/beta receptor 2
+Interferon alpha/beta receptor 2
+interferon-alpha/beta receptor alpha chain
+interferon-alpha/beta receptor beta chain
+interferon alpha binding protein
+Interferon alpha binding protein
+interferon alpha-c
+interferon alphaC
+interferon alpha-C
+Interferon alpha-C
+interferon alphaD
+Interferon alpha-D
+interferon alphaF
+interferon alpha-F
+Interferon alpha-F
+interferon alphaG
+interferon alpha-G
+Interferon alpha-G
+interferon alphaH
+interferon alpha-H
+Interferon alpha-H
+interferon alpha-i'
+interferon alpha-I'
+interferon alphaI'
+Interferon alpha-I'
+interferon alphaJ
+interferon alpha-J
+Interferon alpha-J
+interferon alphaJ1
+interferon alpha-J1
+Interferon alpha-J1
+interferon alphaK
+interferon alpha-K
+Interferon alpha-K
+interferon alphaM1
+interferon alpha-M1
+Interferon alpha-M1
+interferon alpha-t
+interferon alphaT
+interferon alpha-T
+Interferon alpha-T
+interferon alpha type 201
+interferon alpha-wa
+interferon alphaWA
+interferon alpha-WA
+Interferon alpha-WA
+interferon b
+interferon-b
+interferon beta
+interferon-beta
+Interferon beta
+Interferon-beta
+interferon beta1
+interferon beta-1
+interferon-beta1
+interferon-beta-1
+interferon, beta1
+interferon, beta 1
+interferon, beta-1
+interferon, beta 1, fibroblast
+interferon beta2
+interferon beta-2
+interferon-beta-2
+interferon, beta 2
+Interferon beta-2
+interferon-beta receptor 1
+interferonepsilon
+interferon epsilon
+interferon-epsilon
+interferon, epsilon
+Interferon epsilon
+Interferon-epsilon
+interferon epsilon1
+interferon epsilon 1
+interferon epsilon-1
+Interferon epsilon-1
+Interferon g
+Interferon-g
+interferon gamma
+interferon-gamma
+interferon, gamma
+Interferon gamma
+Interferon-gamma
+interferon-gamma induced protein crg-2
+interferon-gamma induced protein CRG-2
+interferon gamma-inducible protein 9
+interferon gammainducible protein 9
+Interferon gamma-inducible protein 9
+interferon gamma inducing factor
+interferon gamma-inducing factor
+interferon-gamma inducing factor
+interferon-gamma-inducing factor
+Interferon gamma-inducing factor
+interferon gamma receptor 1
+Interferon gamma receptor 1
+interferon gamma receptor 2
+Interferon gamma receptor 2
+interferon gamma receptor 2 (interferon gamma transducer 1)
+interferon gamma receptor accessory factor 1
+interferon gamma receptor accessory factor-1
+Interferon gamma receptor accessory factor 1
+interferon gamma receptor alpha chain
+interferon-gamma receptor alpha chain
+interferon gamma receptor beta chain
+interferon-gamma receptor beta chain
+interferon gamma transducer 1
+Interferon gamma transducer 1
+interferoninducible cytokine IP10
+interferon-inducible protein-10
+interferon-inducible protein 10 receptor
+Interferon-inducible protein 10 receptor
+interferon-inducible t-cell alpha chemoattractant
+interferon-inducible T-cell alpha chemoattractant
+interferoninducible Tcell alpha chemoattractant
+Interferon-inducible T-cell alpha chemoattractant
+interferon kappa
+interferon, kappa
+Interferon kappa
+Interferon-kappa
+interferonlambda1
+interferon lambda1
+interferon lambda-1
+interferon, lambda 1
+interferon, lambda-1
+Interferon lambda-1
+interferon lambda2
+interferon lambda 2
+interferon lambda-2
+interferon, lambda 2
+interferonlambda 2
+Interferon lambda-2
+interferon lambda2H
+interferon lambda-2-H
+Interferon lambda-2-H
+interferon lambda3
+interferon lambda-3
+interferon, lambda 3
+Interferon lambda-3
+interferon lambda4
+interferon lambda-4
+interferon, lambda 4
+interferon lambda receptor 1
+interferon lambda, receptor 1
+interferon, lambda receptor 1
+Interferon lambda receptor 1
+interferonlike protein
+interferon omega
+Interferon-omega
+interferon tau1
+interferon tau-1
+Interferon Type 1
+interferon type I
+Interferon Type I
+interleukin 1
+interleukin-1
+Interleukin 1
+Interleukin-1
+interleukin10
+interleukin 10
+interleukin-10
+Interleukin-10
+interleukin 10d
+interleukin-10d
+interleukin 10 receptor, alpha
+interleukin-10 receptor alpha chain
+interleukin 10 receptor, beta
+interleukin-10 receptor beta chain
+interleukin-10 receptor subunit 1
+Interleukin-10 receptor subunit 1
+interleukin-10 receptor subunit 2
+Interleukin-10 receptor subunit 2
+interleukin-10 receptor subunit alpha
+Interleukin-10 receptor subunit alpha
+interleukin-10 receptor subunit beta
+Interleukin-10 receptor subunit beta
+interleukin11
+interleukin 11
+interleukin-11
+Interleukin-11
+interleukin 11 receptor, alpha
+interleukin-11 receptor alpha chain
+interleukin-11 receptor subunit alpha
+Interleukin-11 receptor subunit alpha
+interleukin 12
+interleukin-12
+Interleukin-12
+interleukin 12A
+interleukin12 alpha chain
+interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)
+interleukin 12B
+interleukin12 beta chain
+interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)
+interleukin 12, p35
+interleukin 12, p40
+interleukin-12 p40
+interleukin 12 receptor, beta 1
+interleukin-12 receptor beta 1
+interleukin-12 receptor beta-1 chain
+interleukin 12 receptor, beta 2
+interleukin-12 receptor beta-2 chain
+interleukin-12 receptor subunit beta-1
+Interleukin-12 receptor subunit beta-1
+interleukin-12 receptor subunit beta-2
+Interleukin-12 receptor subunit beta-2
+interleukin-12 subunit alpha
+interleukin12 subunit alpha
+Interleukin-12 subunit alpha
+interleukin-12 subunit beta
+interleukin12 subunit beta
+Interleukin-12 subunit beta
+Interleukin-12 Subunit p35
+Interleukin-12 Subunit p40
+interleukin13
+interleukin 13
+interleukin-13
+Interleukin-13
+interleukin 13 binding protein
+interleukin-13-binding protein
+Interleukin-13-binding protein
+interleukin 13 receptor, alpha 1
+interleukin-13 receptor alpha-1 chain
+interleukin 13 receptor, alpha 2
+interleukin 13 receptor alpha 2 chain
+interleukin-13 receptor alpha-2 chain
+interleukin-13 receptor subunit alpha-1
+Interleukin-13 receptor subunit alpha-1
+interleukin-13 receptor subunit alpha-2
+Interleukin-13 receptor subunit alpha-2
+interleukin 14
+Interleukin-14
+interleukin15
+interleukin 15
+interleukin-15
+Interleukin-15
+interleukin 15 receptor, alpha
+interleukin 15 receptor alpha isoform EM2
+interleukin 15 receptor alpha isoform IC2
+interleukin 15 receptor alpha isoform IC3
+interleukin 15 receptor alpha isoform IC4
+interleukin 15 receptor alpha isoform IC5
+interleukin 15 receptor alpha isoform IC6
+interleukin 15 receptor alpha isoform IC7
+interleukin 15 receptor alpha isoform IC8
+interleukin 15 receptor, beta
+interleukin-15 receptor subunit alpha
+interleukin 16
+interleukin-16
+Interleukin-16
+interleukin 17
+interleukin-17
+Interleukin-17
+interleukin 17a
+interleukin-17a
+interleukin17A
+interleukin 17A
+interleukin-17A
+Interleukin-17a
+Interleukin-17A
+interleukin 17b
+interleukin-17b
+interleukin17B
+interleukin 17B
+interleukin-17B
+Interleukin-17b
+Interleukin-17B
+interleukin17 beta
+interleukin 17c
+interleukin-17c
+interleukin17C
+interleukin 17C
+interleukin-17C
+Interleukin-17c
+Interleukin-17C
+interleukin 17 (cytotoxic Tlymphocyteassociated serine esterase 8)
+interleukin 17d
+interleukin-17d
+interleukin17D
+interleukin 17D
+interleukin-17D
+Interleukin-17d
+Interleukin-17D
+interleukin 17e
+interleukin-17e
+interleukin17E
+interleukin-17E
+Interleukin-17E
+interleukin 17f
+interleukin-17f
+interleukin17F
+interleukin 17F
+interleukin-17F
+Interleukin-17f
+Interleukin-17F
+interleukin 17 receptor A
+interleukin-17 receptor A
+Interleukin-17 receptor A
+interleukin18
+interleukin 18
+interleukin-18
+Interleukin-18
+interleukin 18 (interferongammainducing factor)
+interleukin 18 receptor 1
+interleukin-18 receptor 1
+Interleukin-18 receptor 1
+interleukin19
+interleukin 19
+interleukin-19
+Interleukin-19
+interleukin 1 alpha
+interleukin 1, alpha
+interleukin-1 alpha
+interleukin1 alpha
+Interleukin-1alpha
+Interleukin-1 alpha
+interleukin 1 beta
+interleukin 1, beta
+interleukin-1 beta
+interleukin1 beta
+Interleukin-1beta
+Interleukin-1 beta
+interleukin-1 delta
+interleukin-1_delta
+Interleukin-1 delta
+interleukin-1 epsilon
+interleukin-1_epsilon
+interleukin1 epsilon
+Interleukin-1 epsilon
+interleukin-1 family member 10
+interleukin1 family member 10
+Interleukin-1 family member 10
+interleukin 1 family, member 10 (theta)
+interleukin-1 family member 11
+interleukin1 family member 11
+Interleukin-1 family member 11
+interleukin-1 family member 5
+Interleukin-1 family member 5
+interleukin 1 family, member 5 (delta)
+interleukin 1 family, member 9
+interleukin-1 family member 9
+interleukin1 family member 9
+Interleukin-1 family member 9
+interleukin-1 family member 9 IL-1 epsilon
+interleukin-1 gamma
+interleukin1 gamma
+Interleukin-1 gamma
+interleukin-1 homolog 1
+interleukin1 homolog 1
+Interleukin-1 homolog 1
+interleukin-1 homolog 3
+interleukin-1 hy1
+interleukin-1 HY1
+interleukin1 HY1
+Interleukin-1 HY1
+interleukin-1 hy2
+interleukin-1 HY2
+interleukin1 HY2
+Interleukin-1 HY2
+interleukin-1-like protein 1
+interleukin1like protein 1
+Interleukin-1-like protein 1
+interleukin-1 receptor alpha
+Interleukin-1 receptor alpha
+interleukin 1 receptor alpha, type I
+interleukin 1 receptor antagonist
+Interleukin-1 receptor antagonist
+interleukin1 receptor antagonist FKSG75
+interleukin-1 receptor antagonist homolog 1
+interleukin1 receptor antagonist homolog 1
+Interleukin-1 receptor antagonist homolog 1
+interleukin1 receptor antagonistlike FIL1 theta
+interleukin-1 receptor antagonist protein
+interleukin1 receptor antagonist protein
+Interleukin-1 receptor antagonist protein
+Interleukin 1 Receptor Antagonist Protein
+interleukin-1 receptor beta
+Interleukin-1 receptor beta
+interleukin-1 receptor type 1
+Interleukin-1 receptor type 1, soluble form
+interleukin-1 receptor type 2
+Interleukin-1 receptor type 2, soluble form
+interleukin 1 receptor, type I
+interleukin-1 receptor type I
+Interleukin-1 receptor type I
+interleukin 1 receptor, type II
+interleukin-1 receptor type II
+Interleukin-1 receptor type II
+interleukin 1 receptor type II variant 3
+interleukin 1related protein 2
+interleukin-1_teta
+interleukin-1 theta
+Interleukin-1 theta
+interleukin2
+interleukin 2
+interleukin-2
+Interleukin-2
+interleukin20
+interleukin 20
+interleukin-20
+Interleukin-20
+interleukin 20 receptor, alpha
+interleukin-20 receptor alpha chain
+interleukin 20 receptor beta
+interleukin-20 receptor I
+interleukin-20 receptor II
+interleukin-20 receptor subunit alpha
+Interleukin-20 receptor subunit alpha
+interleukin-20 receptor subunit beta
+Interleukin-20 receptor subunit beta
+interleukin21
+interleukin 21
+interleukin-21
+Interleukin-21
+interleukin21 isoform
+interleukin 21 receptor
+interleukin-21 receptor
+Interleukin-21 receptor
+interleukin22
+interleukin 22
+interleukin-22
+Interleukin-22
+interleukin-22a
+interleukin 22-binding protein
+interleukin-22-binding protein
+Interleukin-22-binding protein
+interleukin 22 receptor, alpha 1
+interleukin 22 receptor, alpha 2
+interleukin-22 receptor subunit alpha-1
+Interleukin-22 receptor subunit alpha-1
+interleukin-22 receptor subunit alpha-2
+Interleukin-22 receptor subunit alpha-2
+interleukin 23
+Interleukin-23
+interleukin 23, alpha subunit p19
+interleukin 23 p19 subunit
+interleukin 23 receptor
+interleukin-23 receptor
+Interleukin-23 receptor
+interleukin-23 subunit alpha
+interleukin23 subunit alpha
+Interleukin-23 subunit alpha
+interleukin-23 subunit p19
+interleukin23 subunit p19
+Interleukin-23 subunit p19
+Interleukin-23 Subunit p19
+Interleukin-23 Subunit p40
+interleukin24
+interleukin 24
+interleukin-24
+Interleukin-24
+interleukin25
+interleukin 25
+interleukin-25
+Interleukin-25
+interleukin26
+interleukin 26
+interleukin-26
+Interleukin-26
+interleukin 27
+interleukin-27
+Interleukin-27
+Interleukin-27 alpha
+Interleukin-27 beta
+interleukin-27 subunit alpha
+interleukin27 subunit alpha
+Interleukin-27 subunit alpha
+interleukin-27 subunit beta
+interleukin27 subunit beta
+Interleukin-27 subunit beta
+interleukin 28a
+interleukin-28a
+interleukin28A
+interleukin-28A
+Interleukin-28a
+Interleukin-28A
+interleukin 28A (interferon, lambda 2)
+interleukin 28 alpha receptor
+interleukin 28b
+interleukin-28b
+interleukin28B
+interleukin-28B
+Interleukin-28b
+Interleukin-28B
+interleukin 28B (interferon, lambda 3)
+interleukin28C
+interleukin 28C
+interleukin-28C
+Interleukin-28C
+interleukin 28 receptor A
+interleukin-28 receptor alpha chain
+interleukin 28 receptor, alpha (interferon, lambda receptor)
+interleukin-28 receptor subunit alpha
+Interleukin-28 receptor subunit alpha
+interleukin29
+interleukin 29
+interleukin-29
+Interleukin-29
+interleukin 29 (interferon, lambda 1)
+interleukin 2 receptor, alpha 
+interleukin 2 receptor, beta
+interleukin 2 receptor, gamma
+interleukin-2 receptor subunit alpha
+Interleukin-2 receptor subunit alpha
+interleukin-2 receptor subunit beta
+Interleukin-2 receptor subunit beta
+interleukin-2 receptor subunit gamma
+Interleukin-2 receptor subunit gamma
+interleukin3
+interleukin 3
+interleukin-3
+Interleukin-3
+interleukin30
+interleukin 30
+Interleukin-30
+interleukin31
+interleukin 31
+interleukin-31
+Interleukin-31
+interleukin-31 receptor subunit beta
+Interleukin-31 receptor subunit beta
+interleukin32
+interleukin 32
+interleukin-32
+Interleukin-32
+interleukin32 eta
+interleukin32 small
+interleukin32 theta
+interleukin33
+interleukin 33
+interleukin-33
+Interleukin-33
+interleukin34
+interleukin 34
+interleukin-34
+Interleukin-34
+Interleukin-35
+interleukin 36, gamma
+interleukin36 gamma
+Interleukin-36 gamma
+interleukin 36 receptor antagonist
+interleukin36 receptor antagonist protein
+Interleukin-36 receptor antagonist protein
+interleukin38
+Interleukin-38
+interleukin 3 receptor, alpha (low affinity)
+interleukin-3 receptor class 2 alpha chain
+interleukin-3 receptor class II alpha chain
+interleukin 3 receptor/granulocyte-macrophage colony stimulating factor 3 receptor, beta (high affinity)
+Interleukin-3 receptor subunit alpha
+interleukin4
+interleukin 4
+interleukin-4
+Interleukin-4
+interleukin 4 receptor
+interleukin-4 receptor alpha chain
+interleukin-4 receptor subunit alpha
+interleukin 4 variant 2
+interleukin5
+interleukin 5
+interleukin-5
+Interleukin-5
+interleukin 5 receptor, alpha
+interleukin-5 receptor alpha chain
+interleukin-5 receptor subunit alpha
+Interleukin-5 receptor subunit alpha
+interleukin 5 receptor type 3
+interleukin6
+interleukin 6
+interleukin-6
+Interleukin-6
+interleukin 6 receptor
+interleukin-6 receptor subunit alpha
+Interleukin-6 receptor subunit alpha
+interleukin-6 receptor subunit beta
+Interleukin-6 receptor subunit beta
+interleukin 6 signal transducer
+interleukin-6 signal transducer
+Interleukin-6 signal transducer
+interleukin7
+interleukin 7
+interleukin-7
+Interleukin-7
+interleukin 7 receptor
+interleukin 7 receptor alpha chain
+interleukin 7 receptor isoform H5-6
+interleukin-7 receptor subunit alpha
+Interleukin-7 receptor subunit alpha
+interleukin8
+interleukin 8
+interleukin-8
+Interleukin-8
+interleukin 8 receptor, alpha
+interleukin 8 receptor B
+interleukin 8 receptor, beta
+interleukin-8 receptor type 1
+interleukin 8 receptor type 2
+interleukin-8 receptor type A
+interleukin-8 receptor type B
+interleukin9
+interleukin 9
+interleukin-9
+Interleukin-9
+interleukin 9 receptor
+interleukin-9 receptor
+Interleukin-9 receptor
+interleukin-activated receptor, homolog of mouse Ly63
+interleukin BSF2
+interleukin-hemopoietin-1
+interleukin hp-1
+interleukin HP-1
+interleukin-hybridoma/plasmacytoma-1
+interleukin or cytokine receptor 2
+interleukin receptor beta chain
+interleukinsix, GCSF related factor
+interleukin t
+interleukin-t
+intracellular IL1 receptor antagonist type II
+intracellular interleukin1 receptor antagonist (icIL1ra)
+involved in regulation of Tcell clonal expansion
+ip-10
+IP-10
+IP10-R
+IP-10 receptor
+ip9
+ip-9
+IP9
+IP-9
+IRAP
+IRH
+iroplact
+Iroplact
+itac
+i-tac
+ITAC
+I-TAC
+Je
+JE/FIC receptor
+JKA3 induced upon Tcell activation
+JTK12
+K5-5
+KEC
+khf
+Ki-1
+Ki-1 antigen
+Ki24 antigen
+killer cell helper factor
+killer helper factor
+KIT
+KIT_HUMAN
+Kitl
+KITLG
+KITLG 
+KITLGPRO-short-label
+kit ligand
+KIT ligand
+KL-1
+KS1
+KY411
+L2G25B
+lag1
+lag-1
+LAG1
+LAG-1
+lai
+lanimostim
+Lanimostim
+lanimostimNP_000748.3
+LAP
+LAP3
+LAP-3
+la-pf4
+LA-PF4
+LARC
+LARC receptor
+LARD
+latencyassociated peptide
+Latency-associated peptide
+LBT
+lcc1
+lcc-1
+LCC-1
+lcf
+LCF
+lcm factor
+LCR1
+ld78
+LD78
+LD78ALPHA
+LD78-alpha(4-69)
+ld78beta
+ld78-beta
+LD78BETA
+LD78-beta(1-70)
+LD78beta(170)
+LD78-beta(5-70)
+ld78gamma
+ld78-gamma
+ LD78gamma
+LD78 receptor
+ldcf
+ldgf
+LDGF
+ldnap
+L-dopachrome isomerase
+Ldopachrome isomerase
+L-dopachrome tautomerase
+Ldopachrome tautomerase
+LDS1
+LDS1A
+LDS1B
+LDS2
+LDS2A
+LDS2B
+LDS4
+lec
+LEC
+lect
+LECT
+LECT1
+LECT1 
+LECT1_HUMAN
+lect2
+lect-2
+LECT2
+LECT-2
+LECT2 
+LECT2_HUMAN
+LECT2PRO-short-label
+leif2c1
+LEIF2C1
+LEIF2H
+leIF A
+LeIF A
+leIF B
+LeIF B
+leif c
+leIF C
+LeIF C
+leIF D
+LeIF D
+leIF-F
+LeIF F
+leIF G
+LeIF G
+leIF H
+LeIF H
+leif i
+leIF I
+LeIF I
+leIF J
+LeIF J
+leIF K
+LeIF K
+lenograstim
+LESTR
+leukemia inhibitory factor
+Leukemia inhibitory factor
+Leukemia Inhibitory Factor
+leukemia inhibitory factor receptor
+Leukemia inhibitory factor receptor
+leukemia inhibitory factor receptor alpha
+leukocyte adhesion inhibitor
+Leukocyte_Cell_Derived_Chemotaxin
+leukocyte cell derived chemotaxin 1
+leukocyte cell-derived chemotaxin 1
+leukocyte cellderived chemotaxin 1
+Leukocyte Cell Derived Chemotaxin 1
+leukocyte cell-derived chemotaxin 2
+leukocyte cell-derived chemotaxin-2
+leukocyte cellderived chemotaxin2
+Leukocyte cell-derived chemotaxin-2
+Leukocyte Cell Derived Chemotaxin 2
+leukocyte-derived growth factor
+leukocytederived growth factor
+Leukocyte-derived growth factor
+leukocyte-derived neutrophil-activating peptide
+leukocyte-derived seven transmembrane domain receptor
+Leukocyte-derived seven transmembrane domain receptor
+leukocyte interferon protein
+Leukocyte Migration Inhibitory Factors
+Leukocyte Migration-Inhibitory Factors
+leukotactin 1
+leukotactin-1
+Leukotactin-1
+l-gi factor
+l-hgf
+LICR2
+LIF
+LIF 
+LIF_HUMAN
+LIFR
+LIF-R
+LIF receptor
+LIFR_HUMAN
+ligand for herpesvirus entry mediator
+LIGHTR
+likely interleukin or cytokine receptor 2
+Likely interleukin or cytokine receptor 2
+lipopolysaccharide-associated protein 3
+Lipopolysaccharide-associated protein 3
+LIT
+liver and activation-regulated chemokine
+liver and activationregulated chemokine
+Liver and activation-regulated chemokine
+liver CC chemokine1
+liver-expressed chemokine
+liverexpressed chemokine
+Liver-expressed chemokine
+lix
+lkn1
+lkn-1
+LKN1
+LKN-1
+lmc
+LMC
+lmf
+lmw-bcgf
+Lnv
+LNV
+Location: 19p13.3-p13.2
+Location: 1p31.3
+LOH18CR1
+loss of heterozygosity, 18, chromosomal region 1
+lowaffinity platelet factor IV
+Low-affinity platelet factor IV
+low molecular weight b-cell growth factor
+lp-1
+lpf
+lpo-1
+LPS-associated protein 3
+lptn
+Lptn
+LPTN
+LR-beta
+lt
+LT
+lta
+LTA
+LTA 
+LTalpha
+LT-alpha
+LT-beta
+LT-BETA-R
+LTBPRO
+LTbR
+LTBR
+ltg
+LTg
+ltn
+LTN
+luct
+LUCT
+lung carcinoma-derived chemotaxin
+lung fibroblastderived mitogen
+lung giant cell carcinomaderived chemotactic protein
+lungkine
+Ly63
+ly63l
+Ly63l
+lymphocyte activation antigen CD30
+Lymphocyte activation antigen CD30
+lymphocyte activation gene 1
+lymphocyte activation gene 1 protein
+Lymphocyte activation gene 1 protein
+lymphocyte and monocyte chemoattractant
+Lymphocyte and monocyte chemoattractant
+lymphocyte-associated receptor of death
+Lymphocyte-associated receptor of death
+lymphocyte chemoattractant factor
+Lymphocyte chemoattractant factor
+lymphocyte-conditioned medium factor
+Lymphocyte-derived neutrophil-activating factor
+lymphocyte derived neutrophil activating peptide
+lymphocyte-derived neutrophil-activating peptide
+lymphocyte inhibitor of TRAIL
+Lymphocyte inhibitor of TRAIL
+lymphocyte mitogenic factor
+lymphocyte proliferation factor
+lymphocyte receptor beta
+lymphocyte-specific G protein-coupled peptide receptor
+lymphocyte stimulatory factor 1
+Lymphocyte stimulatory factor 1
+lymphoid activation antigene ACT35
+lymphokine
+lymphopoietin-1
+lymphotactin
+Lymphotactin
+lymphotactin ATAC
+lymphotactin-like chemokine
+lymphotactin receptor
+Lymphotactin receptor
+lymphotaxin
+Lymphotaxin
+lymphotoxin
+lymphotoxinalpha
+lymphotoxin alpha
+lymphotoxin-alpha
+Lymphotoxin alpha
+Lymphotoxin-alpha
+lymphotoxin-beta 
+Lymphotoxin-beta
+lymphotoxin beta receptor
+lymphotoxin-beta receptor
+Lymphotoxin-beta receptor
+lymphotoxin beta (TNF superfamily, member 3)
+lymphotoxin B receptor
+lynap
+LYNAP
+m119
+M119
+macrophage-activating factor for cytotoxicity i
+Macrophage-Activating Factors
+Macrophage Colony Stimulating Factor
+Macrophage Colony-Stimulating Factor
+macrophage colony-stimulating factor 1
+macrophage colonystimulating factor 1
+Macrophage Colony-Stimulating Factor 1
+macrophage colony-stimulating factor 1 receptor
+Macrophage colony-stimulating factor 1 receptor
+macrophage colony stimulating factor I receptor
+macrophage-derived chemokine
+macrophagederived chemokine
+Macrophage-derived chemokine
+macrophage-derived growth factor
+macrophagederived growth factor
+Macrophage-derived growth factor
+macrophage fusion factor
+macrophage-granulocyte inducer-2a
+macrophage inflammatory protein 1alpha
+macrophage inflammatory protein 1-alpha
+Macrophage inflammatory protein 1-alpha
+macrophage inflammatory protein 1-alpha receptor
+Macrophage inflammatory protein 1-alpha receptor
+macrophage inflammatory protein 1-alpha receptor-like 2
+macrophage inflammatory protein1b2
+macrophage inflammatory protein 1beta
+macrophage inflammatory protein 1-beta
+Macrophage inflammatory protein 1-beta
+macrophage inflammatory protein 1-gamma
+macrophage inflammatory protein 2
+macrophage inflammatory protein 2alpha
+macrophage inflammatory protein 2-alpha
+Macrophage inflammatory protein 2-alpha
+macrophage inflammatory protein 2beta
+macrophage inflammatory protein 2-beta
+Macrophage inflammatory protein 2-beta
+macrophage inflammatory protein 3
+macrophage inflammatory protein-3
+Macrophage inflammatory protein 3
+macrophage inflammatory protein 3 alpha
+Macrophage inflammatory protein 3 alpha
+macrophage inflammatory protein 3beta
+macrophage inflammatory protein 3 beta
+Macrophage inflammatory protein 3 beta
+macrophage inflammatory protein 4
+Macrophage inflammatory protein 4
+macrophage inflammatory protein 4alpha
+macrophage inflammatory protein 4-alpha
+Macrophage inflammatory protein 4-alpha
+macrophage inflammatory protein 5
+macrophage inflammatory protein-5
+Macrophage inflammatory protein 5
+macrophage inflammatory protein-related protein 2
+Macrophage Inflammatory Proteins
+macrophage inhibitory cytokine 1
+Macrophage inhibitory cytokine 1
+macrophage migration inhibitory factor
+Macrophage migration inhibitory factor
+Macrophage Migration-Inhibitory Factor
+macrophage migration inhibitory factor (glycosylation-inhibiting factor)
+Macrophage Migration-Inhibitory Factors
+macrophage stimulating 1
+macrophage stimulating 1 (hepatocyte growth factor-like)
+macrophage stimulating 1 receptor (c-met-related tyrosine kinase)
+Macrophage stimulating factor
+macrophage-stimulating protein
+Macrophage-stimulating protein
+macrophage-stimulating protein receptor
+Macrophage-stimulating protein receptor beta chain
+macrophage stimulatory protein
+Macrophage stimulatory protein
+maf-c i
+magef
+MARC
+mast cell growth enhancing activity
+mast cell growth enhancing factor
+mast cell growth factor
+mastcell growth factor
+Mast cell growth factor
+mast cell growth factor-2
+mast/stem cell growth factor receptor
+mast/stem cell growth factor receptor Kit
+Mast/stem cell growth factor receptor Kit
+mcaf
+MCAF
+McDonough feline sarcoma viral (v-fms) oncogene homolog
+mcgf
+MCGF
+mcgf-2
+mcif
+MCIF
+mcp1
+mcp-1
+MCP1
+MCP-1
+MCP-1-R
+MCP-1 receptor
+MCP-1-related chemokine
+MCP2
+MCP-2
+MCP-2(6-76)
+MCP3
+MCP-3
+mcp4
+mcp-4
+MCP4
+MCP-4
+Mcp5
+MCP-5
+MCSF
+M-CSF
+M-CSF-R
+mda1
+MDA1
+mda7
+mda-7
+MDA7
+MDA-7
+MDC
+MDC(1-69)
+MDC(169)
+MDC(7-69)
+mdgf
+MDGF
+mdnap
+mdncf
+MDNCF
+MDNCF-b
+MDNCF-c
+MDR15
+MDR-15
+mea
+megakaryoblast growth factor
+megakaryocyte colony stimulating factor
+megakaryocyte colony-stimulating factor
+megakaryocyte colonystimulating factor
+Megakaryocyte colony-stimulating factor
+megakaryocyte growth and development factor
+Megakaryocyte growth and development factor
+megakaryocyte stimulating factor
+meg-csf
+melanocyteassociated Mda7
+melanoma-derived LPL inhibitor
+melanomaderived LPL inhibitor
+Melanoma-derived LPL inhibitor
+melanoma differentiation antigen-1
+melanoma differentiation-associated gene 7
+melanoma differentiation-associated gene 7 protein
+melanoma differentiationassociated gene 7 protein
+Melanoma differentiation-associated gene 7 protein
+melanoma differentiation associated protein-like protein
+melanoma differentiation associated proteinlike protein
+melanoma differentiation-associated protein-like protein
+melanoma differentiationassociated proteinlike protein
+Melanoma differentiation-associated protein-like protein
+melanoma growth stimulatory activity
+Melanoma growth stimulatory activity
+melanoma growth stimulatory activity alpha
+melanoma growth stimulatory activity beta
+melanoma growth stimulatory activity gamma
+membrane glycoprotein 130
+Membrane glycoprotein 130
+membrane glycoprotein 80
+Membrane glycoprotein 80
+membrane glycoprotein gp130
+mENA
+MET
+MET_HUMAN
+met proto-oncogene
+met proto-oncogene tyrosine kinase
+mff
+MFS2
+mgc102770
+mgc104178
+mgc116786
+mgc116788
+mgc116789
+mgc117051
+mgc119018
+mgc119020
+mgc119794
+mgc119831
+mgc119832
+mgc119833
+mgc119878
+mgc119879
+mgc12320
+mgc126450
+mgc126451
+mgc126628
+mgc126884
+mgc12815
+mgc129581
+mgc129934
+mgc129935
+mgc131935
+mgc138144
+mgc138298
+mgc138300
+mgc138401
+mgc138897
+mgc138900
+mgc138901
+mgc150327
+mgc17134
+mgc17164
+mgc182017
+mgc20669
+mgc22554
+mgc29840
+mgc34647
+mgc45931
+mgc71870
+mgc79382
+mgc79384
+mgc79398
+mgc79399
+mgc79402
+mgc9434
+mgc96907
+mgc96956
+mgc9721
+MGDF
+MGF
+MGI:101875
+MGI:101878
+MGI:103011
+MGI:103014
+MGI:103556
+MGI:103567
+MGI:103576
+MGI:104511
+MGI:104512
+MGI:104533
+MGI:104579
+MGI:104593
+MGI:104616
+MGI:104618
+MGI:104637
+MGI:104644
+MGI:104749
+MGI:104796
+MGI:104797
+MGI:104798
+MGI:104875
+MGI:105052
+MGI:105303
+MGI:105304
+MGI:105367
+MGI:105383
+MGI:105968
+MGI:106185
+MGI:107182
+MGI:107364
+MGI:107399
+MGI:107414
+MGI:107426
+MGI:107613
+MGI:107654
+MGI:107655
+MGI:107656
+MGI:107657
+MGI:107658
+MGI:107661
+MGI:107662
+MGI:107663
+MGI:107664
+MGI:107666
+MGI:107667
+MGI:107668
+MGI:107670
+MGI:107824
+MGI:107936
+MGI:108068
+MGI:108224
+MGI:109380
+MGI:109562
+MGI:109563
+MGI:109587
+MGI:1096320
+MGI:1096868
+MGI:1097153
+MGI:1098243
+MGI:1099448
+MGI:1100089
+MGI:1101058
+MGI:1101059
+MGI:1195273
+MGI:1196259
+MGI:1201402
+MGI:1270855
+MGI:1270861
+MGI:1277207
+MGI:1277954
+MGI:1278342
+MGI:1306779
+MGI:1314883
+MGI:1314884
+MGI:1314891
+MGI:1329031
+MGI:1329039
+MGI:1330819
+MGI:1333797
+MGI:1333815
+MGI:1339751
+MGI:1339752
+MGI:1339753
+MGI:1339754
+MGI:1339755
+MGI:1339758
+MGI:1339759
+MGI:1339941
+MGI:1340094
+MGI:1341090
+MGI:1341171
+MGI:1341902
+MGI:1343050
+MGI:1343459
+MGI:1344376
+MGI:1346047
+MGI:1346316
+MGI:1346338
+MGI:1349183
+MGI:1352449
+MGI:1352450
+MGI:1354171
+MGI:1355307
+MGI:1355317
+MGI:1859325
+MGI:1860203
+MGI:1888499
+MGI:1888506
+MGI:1888514
+MGI:1888711
+MGI:1888712
+MGI:1889411
+MGI:1890472
+MGI:1890473
+MGI:1890474
+MGI:1890475
+MGI:1916833
+MGI:1922708
+MGI:1923649
+MGI:1923777
+MGI:1924375
+MGI:1928397
+MGI:1928953
+MGI:1930088
+MGI:1932410
+MGI:1932682
+MGI:1934582
+MGI:1934667
+MGI:2135548
+MGI:2143266
+MGI:2155888
+MGI:2180140
+MGI:2181693
+MGI:2384409
+MGI:2387642
+MGI:2429859
+MGI:2446486
+MGI:2446510
+MGI:2447159
+MGI:2447165
+MGI:2447166
+MGI:2448715
+MGI:2450574
+MGI:2652548
+MGI:2663588
+MGI:2665114
+MGI:2667155
+MGI:2667156
+MGI:2673064 
+MGI:2675303
+MGI:2676631
+MGI:2683287
+mgi-2a
+MGI:3037818
+MGI:3589281
+MGI:3605069
+MGI:3641425
+MGI:3647279
+MGI:3649260
+MGI:88326
+MGI:88328
+MGI:88335
+MGI:88336
+MGI:88337
+MGI:894675
+MGI:95290
+MGI:95294
+MGI:95407
+MGI:95408
+MGI:95484
+MGI:95515
+MGI:95516
+MGI:95559
+MGI:95560 
+MGI:96079
+MGI:96080
+MGI:96536
+MGI:96537
+MGI:96538
+MGI:96539
+MGI:96540
+MGI:96541
+MGI:96542
+MGI:96543
+MGI:96545
+MGI:96546
+MGI:96547
+MGI:96548
+MGI:96549
+MGI:96550
+MGI:96551
+MGI:96552
+MGI:96553
+MGI:96556
+MGI:96557
+MGI:96558
+MGI:96559
+MGI:96560
+MGI:96561
+MGI:96562
+MGI:96563
+MGI:96564
+MGI:96677
+MGI:96787
+MGI:96788
+MGI:96969
+MGI:96974
+MGI:96982
+MGI:97076
+MGI:97527
+MGI:97528
+MGI:97530
+MGI:97531
+MGI:98258
+MGI:98259
+MGI:98260
+MGI:98261
+MGI:98262
+MGI:98263
+MGI:98389
+MGI:98724
+MGI:98725
+MGI:98726
+MGI:98727
+MGI:98728
+MGI:98729
+MGI:99255
+MGI:99512
+MGI:99605
+MGI:99614
+MGI:99908
+MGSA
+MGSA-a
+MGSA alpha
+MGSA-b
+MGSA beta
+MGSA gamma
+MIC1
+MIC-1
+MIF
+MIF 
+MIF_HUMAN
+MIFPRO-short-label
+mig
+MIG
+MigR
+Mig-R
+mIL-1R1
+mIL-1R2
+mIL-1RI
+mIL-1RII
+mILC
+minopontin
+MIP1A
+mip 1 alpha
+mip-1 alpha
+mip1-alpha
+MIP-1-alpha
+MIP-1-alpha(4-69)
+MIP-1alpha-R
+MIP-1 alpha receptor
+MIP-1 alpha RL2
+mip1ap
+MIP1AP
+MIP1aR
+MIP1B
+MIP1B1
+mip 1 beta
+mip-1 beta
+mip1-beta
+MIP1beta
+MIP-1-beta
+MIP-1-beta(1-69)
+MIP1beta(169)
+MIP-1-beta(3-69)
+mip1d
+mip-1d
+MIP-1D
+mip1delta
+mip-1delta
+mip-1 delta
+mip-1-delta
+mip-1(delta)
+mip1(delta)
+MIP-1 delta
+mip-1gamma
+mip-1-gamma
+mip-1(gamma)
+mip1-gamma
+mip1(gamma)
+MIP-1-gamma
+Mip-2
+MIP2
+MIP-2a
+MIP2A
+MIP2alpha
+MIP2-alpha
+MIP-2b
+MIP2B
+MIP2beta
+MIP2-beta
+MIP-2g
+MIP2G
+MIP-2G
+MIP2 gamma
+mip3
+mip-3
+MIP3
+MIP-3
+MIP-3a
+MIP3A
+MIP-3-alpha
+MIP-3b
+MIP3B
+MIP3beta
+MIP-3-beta
+MIP-3 beta receptor
+MIP4
+MIP-4
+MIP-4a
+MIP4alpha
+MIP-4alpha
+MIP-4-alpha
+mip5
+mip-5
+MIP5
+MIP-5
+mip-related protein 2b
+MK
+MKCSF
+mk potentiator
+ML
+ml1
+ml-1
+ML1
+ML-1
+MLPLI
+MMIF
+mob1
+mob-1
+mob5
+mob-5
+MOB5
+moc
+molgramostin
+Molgramostin
+monap
+MONAP
+monocyte adherence-induced protein 5-alpha
+monocyte adherenceinduced protein 5alpha
+Monocyte adherence-induced protein 5-alpha
+monocyte chemoattractant protein1
+monocyte chemoattractant protein 1
+Monocyte chemoattractant protein 1
+monocyte chemoattractant protein 1 receptor
+Monocyte chemoattractant protein 1 receptor
+monocyte chemoattractant protein 2
+Monocyte chemoattractant protein 2
+monocyte chemoattractant protein 3
+Monocyte chemoattractant protein 3
+monocyte chemoattractant protein 4
+Monocyte chemoattractant protein 4
+monocyte chemoattractant protein 5
+Monocyte Chemoattractant Proteins
+monocyte chemotactic and activating factor
+Monocyte chemotactic and activating factor
+monocyte chemotactic protein 1
+Monocyte chemotactic protein 1
+monocyte chemotactic protein 1 receptor
+monocyte chemotactic protein 2
+Monocyte chemotactic protein 2
+monocyte chemotactic protein 3
+Monocyte chemotactic protein 3
+monocyte chemotactic protein 4
+monocyte chemotactic protein-4
+Monocyte chemotactic protein 4
+monocyte chemotactic protein 5
+Monocyte-CSF
+monocyte-derived chemotaxin
+monocyte-derived neutrophil-activating peptide
+monocytederived neutrophilactivating peptide
+Monocyte-derived neutrophil-activating peptide
+monocyte-derived neutrophil chemotactic factor
+monocytederived neutrophil chemotactic factor
+Monocyte-derived neutrophil chemotactic factor
+monocyte-derived receptor 15
+Monocyte-derived receptor 15
+monocyte secretory protein JE
+Monocyte secretory protein JE
+monokine induced by gamma interferon
+monokine induced by gamma-interferon
+monokine induced by interferongamma
+Monokine induced by interferon-gamma
+monotactin1
+monotactin-1
+Monotactin-1
+mpif1
+mpif-1
+MPIF1
+MPIF-1
+mpif2
+mpif-2
+MPIF2
+MPIF-2
+MPL
+MPLLG
+MPL ligand
+MRP-1
+mrp-2
+Mrp2
+MRP-2
+mrp-2b
+Mrp-2b
+MRP-2B
+mrp2CCL1
+MS5
+MSP
+MSP receptor
+MSSE
+MST1
+MST1R
+MST1R variant RON30
+MST1R variant RON62
+mtn1
+mtn-1
+Mtn-1
+MTN-1
+multi-csf
+MULTI-CSF
+multilineagecolonystimulating factor
+multiple myeloma tumor suppressor 1
+multiple self-healing squamous epithelioma
+multipotential colony-stimulating factor
+multipotential colonystimulating factor
+Multipotential colony-stimulating factor
+murantes
+murine lung-derived growth inhibitory factor
+mutant tumor necrosis factor family member 6
+MVCD2
+MVCD4
+mXCR1
+myeloid progenitor inhibitory factor 1
+myeloid progenitor inhibitory factor-1
+Myeloid progenitor inhibitory factor 1
+myeloid progenitor inhibitory factor 2
+myeloid progenitor inhibitory factor-2
+Myeloid progenitor inhibitory factor 2
+myeloma gf
+myeloma growth factor
+myeloproliferative leukemia protein
+Myeloproliferative leukemia protein
+myeloproliferative leukemia virus oncogene
+myeloproliferative leukemia virus oncogene ligand
+Myeloproliferative leukemia virus oncogene ligand
+MYETS1
+naf
+NAF
+NAG-1
+nap1
+nap-1
+NAP1
+NAP-1
+nap2
+nap-2
+NAP-2
+NAP-2(1-63)
+NAP-2(1-66)
+NAP-2(73)
+NAP-2(74)
+NAP-3
+natural killer cell activating factor
+natural killer cell activity-augmenting factor
+natural killer cells protein 4
+Natural killer cells protein 4
+natural killer cell stimulatory factor
+natural killer cell stimulatory factor, 40 kD subunit
+natural killer cell transcript 4
+NC28
+nc30
+NC30
+ncc1
+ncc-1
+NCC1
+NCC-1
+ncc2
+ncc-2
+NCC2
+NCC-2
+ncc3
+ncc-3
+NCC3
+NCC-3
+ncc4
+ncc-4
+NCC4
+NCC-4
+ncf
+ncp
+nephropontin
+Nephropontin
+nerve growth factor receptor-related B-lymphocyte activation molecule
+neuronal il17-related factor
+neuronal interleukin 16
+neuronal interleukin-17-related factor
+neuronal interleukin17 related factor
+neuronal interleukin17related factor
+Neuronal interleukin-17-related factor
+neuropeptide Y receptor Y3
+neurotactin
+Neurotactin
+neutrophil-activating factor
+Neutrophil-activating factor
+neutrophilactivating peptide 1
+neutrophil-activating peptide 2
+neutrophilactivating peptide2
+neutrophilactivating peptide 2
+Neutrophil-activating peptide 2(1-63)
+neutrophil-activating peptide ena-78
+neutrophil-activating peptide ENA-78
+neutrophilactivating peptide ENA78
+Neutrophil-activating peptide ENA-78
+neutrophil-activating protein 1
+neutrophil-activating protein-1
+Neutrophil-activating protein 1
+neutrophil-activating protein 3
+neutrophilactivating protein 3
+Neutrophil-activating protein 3
+neutrophilactivating protein 78
+neutrophil chemotactic factor
+neutrophil chemotactic protein
+new CC chemokine 1
+new CC chemokine 2
+new CC chemokine 3
+new CC chemokine 4
+NF15S2
+NF cell stimulatory factor chain 1
+NFEHEV
+NFHEV
+NF-HEV
+NFSK
+ng.1
+NG.1
+NIL16
+NILR
+nirf
+NIRF
+NJAC
+nk4
+NK4
+nkaf
+nk cell stimulatory factor
+NK cell stimulatory factor chain 1
+NK cell stimulatory factor chain 2
+nksf
+NKSF
+NKSF1
+NKSF2
+nnt1
+nnt-1
+NNT1
+NNT-1
+novel cytokine receptor 4
+novel cytokine receptor 8
+novel interleukin receptor
+Novel interleukin receptor
+novel neurotrophin-1
+Novel neurotrophin-1
+NPY3R
+NPYR
+NPYRL
+NPYY3R
+NR4
+nr6
+NR6
+NR8
+NRG1
+NRG-1
+NSAID-activated gene 1 protein
+NSAIDactivated gene 1 protein
+NSAID (nonsteroidal antiinflammatory drug)activated protein 1
+NSAID-regulated gene 1 protein
+NSAIDregulated gene 1 protein
+N-terminal fragment
+NTF
+ntn
+NTN
+ntt
+NTT
+nuclear factor for high endothelial venules
+nuclear factor from high endothelial venules
+Nuclear factor from high endothelial venules
+OCIF
+odf
+ODF
+ODFR
+OFE
+oit1
+ONCM_HUMAN
+oncostatinA
+oncostatin-A
+Oncostatin-A
+oncostatinM
+oncostatin M
+oncostatin-M
+Oncostatin M
+Oncostatin-M
+oncostatin M receptor
+oncostatin-M receptor subunit alpha
+Oncostatin-M receptor subunit alpha
+oncostatin-M specific receptor beta subunit
+oncostatin-M-specific receptor subunit beta
+Oncostatin-M-specific receptor subunit beta
+Op
+OPG
+opgl
+OPGL
+OPN
+oprelvekin
+optb2
+OPTB2
+OPTB7
+OSM
+OSM 
+OSMR
+OSMRB
+OSMR_HUMAN
+osteoclast differentiation factor
+Osteoclast differentiation factor
+osteoclast differentiation factor receptor
+Osteoclast differentiation factor receptor
+osteoclastogenesis inhibitory factor
+Osteoclastogenesis inhibitory factor
+osteopontin
+Osteopontin
+osteopontin/immunoglobulin alpha 1 heavy chain constant region fusion protein
+osteoprotegerin
+Osteoprotegerin
+osteoprotegerin ligand
+Osteoprotegerin ligand
+OSTP_HUMAN
+OSTS
+Ox40
+OX40
+OX40 antigen
+OX40 antigen ligand
+OX40 cell surface antigen
+OX40 homologue
+ox40l
+ox-40l
+OX40L
+OX-40L
+ox40 ligand
+OX40 ligand
+OX40 Ligand
+OX40L receptor
+OX4OL
+p145 c-kit
+p185-Ron
+P19
+p28
+p33
+P35
+p40
+P40
+p40 cytokine
+p40 Tcell and mast cell growth factor
+p50
+P500
+p518
+p53-regulated DNA damage-inducible cell death receptor(killer)
+p55
+p55-R
+p60
+p600
+P600
+p64
+P64
+p70-75
+P70-75
+p75
+p75TNFR
+p75 TNF receptor
+p80
+P80
+p80 TNF-alpha receptor
+Paget disease of bone 2
+PARC
+PAT 464.1
+PAT 464.2
+PAT 744
+PB-CKR
+pbgf
+pbp
+PBP
+PBSF
+PBT
+p-cell-stimulating factor
+P-cell-stimulating factor
+Pcell stimulating factor
+Pcellstimulating factor
+pct-gf
+PDB2
+PDF
+pdgf
+PDGF
+PDGF1
+PDGF-1
+PDGF2
+PDGF-2
+PDGFA
+PDGF-A
+PDGFA 
+PDGF Achain
+PDGFA_HUMAN
+PDGFB
+PDGFB 
+PDGF, B chain
+PDGFB_HUMAN
+Pdgfr
+PDGFR
+PDGFR1
+PDGFR-1
+PDGFR2
+PDGFR-2
+PDGFRA
+PDGFRA/BCR fusion
+PDGF-R-alpha
+PDGFR-alpha
+PDGFRB
+PDGF-R-beta
+PDGFR-beta
+PDGF subunit A
+PDGF subunit B
+PESKY
+pf4
+pf-4
+PF4
+PF-4
+PF4 
+pf4a
+PF4A
+pf4alt
+pf4-alt
+PF4alt
+PF4-ALT
+pf4v1
+PF4V1
+PF4V1 
+pf4var1
+PF4var1
+PF4V_HUMAN
+pfc-ea
+PGFRA_HUMAN
+PGFRB_HUMAN
+phenylpyruvate tautomerase
+Phenylpyruvate tautomerase
+phenylpyruvate tautomeraseNP_002406.1
+piebald trait protein
+Piebald trait protein
+PIG61
+pitrakinra
+Pitrakinra
+PLAB
+placental bone morphogenetic protein
+Placental bone morphogenetic protein
+placental TGFbeta
+placental TGF-beta
+Placental TGF-beta
+plaque forming cell enhancing factor
+plasmacytoma growth factor
+platelet basic protein
+Platelet-Derived Growth Factor
+plateletderived growth factor 2
+platelet-derived growth factor A chain
+plateletderived growth factor A chain
+Platelet-derived growth factor A chain
+platelet-derived growth factor alpha
+plateletderived growth factor alpha chain
+plateletderived growth factor alpha isoform 2 preproprotein
+platelet-derived growth factor alpha polypeptide
+Platelet-derived growth factor alpha polypeptide
+Platelet-derived growth factor alpha receptor
+platelet-derived growth factor B chain
+plateletderived growth factor B chain
+Platelet-derived growth factor B chain
+platelet-derived growth factor beta
+platelet-derived growth factor beta polypeptide
+Platelet-derived growth factor beta polypeptide
+plateletderived growth factor, beta polypeptide (oncogene SIS)
+plateletderived growth factor beta polypeptide (simian sarcoma viral (vsis) oncogene homolog)
+platelet-derived growth factor-inducible protein JE
+platelet-derived growth factor-inducible protein KC
+platelet-derived growth factor receptor 1
+Platelet-derived growth factor receptor 1
+platelet-derived growth factor receptor 2
+Platelet-derived growth factor receptor 2
+platelet-derived growth factor receptor alpha
+Platelet-derived growth factor receptor alpha
+platelet-derived growth factor receptor, alpha polypeptide
+platelet-derived growth factor receptor beta
+Platelet-derived growth factor receptor beta
+platelet-derived growth factor receptor, beta polypeptide
+platelet-derived growth factor subunit A
+plateletderived growth factor subunit A
+Platelet-derived growth factor subunit A
+platelet-derived growth factor subunit B
+plateletderived growth factor subunit B
+Platelet-derived growth factor subunit B
+platelet factor 4
+platelet factor-4
+Platelet Factor 4
+Platelet factor 4, short form
+platelet factor 4 variant
+platelet factor 4 variant 1
+platelet factor 4, variant 1 (PF4like)
+Platelet factor 4 variant(6-74)
+PLCA1
+plf
+PLF4_HUMAN
+pluripoietin
+Pluripoietin
+polyergin
+Polyergin
+ppbp
+PPBP
+PPBP 
+ppbpl1
+pre-B-cell-derived chemokine receptor
+pre-b-cell growth factor
+pre-B cell growth-stimulating factor
+preB cell growthstimulating factor
+Pre-B cell growth-stimulating factor
+preinterleukin 1 alpha
+preinterleukin 1 beta
+preprothrombopoietin
+preprotransforming growth factor beta1
+preprotransforming growth factor beta2
+preprotransforming growth factor beta3
+pril-16
+prIL-16
+PRIL16
+pro1068
+pro2219
+PRO2219
+pro655
+PRO655
+Processed fractalkine
+Processed macrophage colony-stimulating factor 1
+pro-epidermal growth factor
+proepidermal growth factor
+prointerleukin16
+prointerleukin 16
+prointerleukin1alpha
+prointerleukin1beta
+pro-platelet basic protein
+pro-platelet basic protein (chemokine (C-X-C motif) ligand 7)
+pro-platelet basic protein-like-1
+PRO-short-label
+prostate differentiation factor
+Prostate differentiation factor
+prostatropin
+protein 10 from interferon (gamma)induced cell line
+protein 3-10c
+protein 3-10C
+Protein 3-10C
+protein AK155
+Protein AK155
+protein C10
+protein FIC
+protein H400
+Protein H400
+protein TRAIL
+Protein TRAIL
+protein-tyrosine kinase 8
+Protein-tyrosine kinase 8
+protein WSL
+Protein WSL
+protein WSL-1
+Protein WSL-1
+proto-oncogene c-ErbB-1
+Proto-oncogene c-ErbB-1
+proto-oncogene c-Fms
+Proto-oncogene c-Fms
+proto-oncogene c-Kit
+Proto-oncogene c-Kit
+proto-oncogene c-Met
+Proto-oncogene c-Met
+proto-oncogene c-Mpl
+Proto-oncogene c-Mpl
+proto-oncogene c-Sis
+protooncogene cSis
+Proto-oncogene c-Sis
+proto-oncogene tyrosine-protein kinase Kit
+protransforming growth factor alpha
+psoriatic leukotactic factor
+PSORP
+PTGFB
+PTGFbeta
+PTK8
+PTK8 protein tyrosine kinase 8
+pulmonary and activation-regulated chemokine
+pulmonary and activationregulated chemokine
+Pulmonary and activation-regulated chemokine
+pyroglutamylated rfamide peptide
+Q6I9T4_HUMAN
+qrfp
+RANK
+rankl
+RANKL
+RANK Ligand
+rantes
+RANTES
+RANTES(4-68)
+RANTES-R
+RANTES receptor
+RCCP2
+RDC1
+RDC-1
+rearranged-in-hypereosinophilia-platelet derived growth factor receptor alpha fusion protein
+receptor 41BB ligand
+receptor activator of NF-KB
+Receptor activator of NF-KB
+receptor activator of nuclear factor-kappa B
+receptor activator of nuclear factor kappa-b ligand
+receptor activator of nuclear factor kappa B ligand
+receptor activator of nuclear factor kappa-B ligand
+receptor activator of nuclear factor kappaB ligand
+Receptor activator of nuclear factor kappa-B ligand
+receptor protein 4-1BB
+Receptors, TNF-Related Apoptosis-Inducing Ligand
+receptor-type tyrosine-protein kinase FLT3
+Receptor-type tyrosine-protein kinase FLT3
+receptor tyrosine-protein kinase erbB-1
+Receptor tyrosine-protein kinase erbB-1
+regulated upon activation, normally Texpressed, and presumably secreted
+resistin
+Resistin
+resistin delta2
+RETN
+RETN 
+RETN1
+RETN_HUMAN
+RETNPRO-short-label
+RHEPDGFRA
+RIIC
+RNHF
+RON
+RON_HUMAN
+RON variant 21
+RON variant E2E3
+RP11-102M16.1
+RP11-10N16.1
+RP11-153M24.3
+RP11-204P2.1
+RP11-261P4.2
+RP11-296L22.1
+RP11-399O19.7
+RP11-536K7.1
+RP11-536K7.2
+RP11-96L7.1
+RP13-128O4.2
+RP1-92O14.1
+RP3-395M20.6
+RP3-503F13.3
+RP4-650H14.2
+RP5-1170K4.6
+RP5-902P8.2
+RP5-902P8.3
+RSTN
+RSTN (RELATED)
+RYZN
+S152
+S152. LPFS2
+sargramostim
+Sargramostim
+SB-251353
+Sbf
+scatter factor
+Scatter factor
+scatter factor receptor
+Scatter factor receptor
+scavenger receptor for phosphatidylserine and oxidized low density lipoprotein
+Scavenger receptor for phosphatidylserine and oxidized low density lipoprotein
+SCF
+SCF_HUMAN
+SCFR
+SCIDX
+SCIDX1
+scif
+scm1
+scm-1
+SCM1
+SCM-1
+scm1a
+scm-1a
+SCM-1a
+SCM1A
+scm-1-alpha
+SCM1alpha
+SCM-1-alpha
+SCM-1b
+SCM1B
+SCM1 receptor
+SCYA1
+scya10
+Scya10
+SCYA10
+scya11
+SCYA11
+Scya12
+scya13
+SCYA13
+scya14
+SCYA14
+scya15
+SCYA15
+scya16
+SCYA16
+SCYA17
+SCYA18
+SCYA19
+scya2
+SCYA2
+SCYA20
+SCYA21
+Scya21b
+Scya21c
+SCYA22
+scya23
+SCYA23
+scya24
+SCYA24
+scya25
+SCYA25
+SCYA26
+SCYA27
+SCYA3
+scya3l
+SCYA3L
+scya3l1
+SCYA3L1
+scya3l2
+ SCYA3L2
+SCYA4
+scya4l
+SCYA4L
+SCYA4L1
+SCYA4L2
+scya5
+SCYA5
+Scya6
+SCYA6
+SCYA7
+SCYA8
+scya9
+Scya9
+SCYAR1
+SCYB1
+scyb10
+SCYB10
+scyb11
+SCYB11
+SCYB12
+SCYB13
+SCYB14
+Scyb15
+SCYB16
+SCYB2
+SCYB3
+scyb4
+SCYB4
+scyb4v1
+SCYB4V1
+scyb5
+SCYB5
+SCYB6
+scyb7
+SCYB7
+scyb9
+SCYB9
+scyb9b
+SCYB9B
+scyc1
+SCYC1
+SCYC2
+scyd1
+SCYD1
+scyl1
+SCYL1
+scyl2
+SCYL2
+scyl3
+SCYL3
+scyl4
+SCYL4
+SCYQ4L2
+SDF1
+SDF-1
+SDF1A
+SDF-1-alpha(3-67)
+SDF1B
+SDF1_HUMAN
+Sdf1r
+SDF-1 receptor
+secondary cytotoxic t-cell inducing factor
+secondary lymphoid tissue chemokine
+secondary lymphoid-tissue chemokine
+Secondary lymphoid-tissue chemokine
+secreted phosphoprotein 1
+Secreted phosphoprotein 1
+secreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early Tlymphocyte activation 1)
+secreted protein G26
+secretory protein N51
+(Ser-IL-8)72
+serine/threonine-protein kinase receptor R4
+Serine/threonine-protein kinase receptor R4
+seven transmembrane helix receptor
+seven-transmembrane receptor, lymphocyte, 22
+seven-transmembrane-segment receptor, spleen
+sf
+SF
+SF receptor
+SGRF
+SHEP7
+sIL-15RA
+sIL-15R-alpha
+sIL-15 receptor subunit alpha
+sIL-1R1
+sIL-1R2
+sIL-1RI
+sIL-1RII
+sIL4Ralpha/prot
+single cysteine motif 1a
+SIS
+SIS-alpha
+SISbeta
+SIS-beta
+sisd
+SISd
+sis-delta
+SIS-delta
+SISe
+SIS-epsilon
+SISgamma
+SIS-gamma
+SJS2
+skinkine
+Skinkine
+sKITLG
+SKR4
+Sl
+SLC
+SL cytokine
+Slf
+small-inducible cytokine A1
+Small-inducible cytokine A1
+small inducible cytokine a10
+small-inducible cytokine a11
+small-inducible cytokine A11
+Small-inducible cytokine A11
+small-inducible cytokine A12
+small-inducible cytokine a13
+small-inducible cytokine A13
+smallinducible cytokine A13
+Small-inducible cytokine A13
+small-inducible cytokine a14
+small-inducible cytokine A14
+smallinducible cytokine A14
+Small-inducible cytokine A14
+small-inducible cytokine a15
+small-inducible cytokine A15
+smallinducible cytokine A15
+Small-inducible cytokine A15
+small-inducible cytokine a16
+small-inducible cytokine A16
+smallinducible cytokine A16
+Small-inducible cytokine A16
+small-inducible cytokine A17
+smallinducible cytokine A17
+Small-inducible cytokine A17
+small inducible cytokine A18
+small-inducible cytokine A18
+smallinducible cytokine A18
+Small-inducible cytokine A18
+small-inducible cytokine A19
+smallinducible cytokine A19
+Small-inducible cytokine A19
+small inducible cytokine A1 (I309, homologous to mouse Tca3)
+small-inducible cytokine A2
+smallinducible cytokine A2
+Small-inducible cytokine A2
+small-inducible cytokine A20
+smallinducible cytokine A20
+Small-inducible cytokine A20
+small-inducible cytokine A21
+Small-inducible cytokine A21
+small-inducible cytokine A21a
+small-inducible cytokine A21b
+small-inducible cytokine A21c
+small inducible cytokine A22
+small-inducible cytokine A22
+smallinducible cytokine A22
+Small-inducible cytokine A22
+small-inducible cytokine a23
+small-inducible cytokine A23
+Small-inducible cytokine A23
+small-inducible cytokine a24
+small-inducible cytokine A24
+smallinducible cytokine A24
+Small-inducible cytokine A24
+small-inducible cytokine a25
+small-inducible cytokine A25
+smallinducible cytokine A25
+Small-inducible cytokine A25
+small inducible cytokine A26
+small-inducible cytokine A26
+smallinducible cytokine A26
+Small-inducible cytokine A26
+small-inducible cytokine A27
+smallinducible cytokine A27
+Small-inducible cytokine A27
+small inducible cytokine A2 (monocyte chemotactic protein 1, homologous to mouse Sigje)
+small-inducible cytokine A3
+Small-inducible cytokine A3
+small inducible cytokine A3 (homologous to mouse Mip1a)
+small inducible cytokine A3like 1
+Small-inducible cytokine A3-like 1
+small-inducible cytokine A4
+Small-inducible cytokine A4
+small inducible cytokine A4 (homologous to mouse Mip1b)
+small inducible cytokine A4like
+small-inducible cytokine A4-like
+Small-inducible cytokine A4-like
+small inducible cytokine a5
+small inducible cytokine A5
+small-inducible cytokine A5
+Small-inducible cytokine A5
+small-inducible cytokine A6
+small-inducible cytokine A7
+smallinducible cytokine A7
+Small-inducible cytokine A7
+small inducible cytokine A7 (monocyte chemotactic protein 3)
+small-inducible cytokine A8
+smallinducible cytokine A8
+Small-inducible cytokine A8
+small-inducible cytokine a9
+small-inducible cytokine A9
+small-inducible cytokine b10
+small-inducible cytokine B10
+smallinducible cytokine B10
+Small-inducible cytokine B10
+small-inducible cytokine b11
+small inducible cytokine B11
+small-inducible cytokine B11
+smallinducible cytokine B11
+Small-inducible cytokine B11
+small-inducible cytokine B13
+smallinducible cytokine B13
+Small-inducible cytokine B13
+small-inducible cytokine B14
+smallinducible cytokine B14
+Small-inducible cytokine B14
+small-inducible cytokine B15
+small-inducible cytokine B16
+smallinducible cytokine B16
+Small-inducible cytokine B16
+small-inducible cytokine b5
+small-inducible cytokine B5
+Small-inducible cytokine B5
+small-inducible cytokine B6
+smallinducible cytokine B6
+Small-inducible cytokine B6
+Small-inducible cytokine B6, N-processed variant 3
+small inducible cytokine B7
+small-inducible cytokine B7
+smallinducible cytokine B7
+Small-inducible cytokine B7
+small-inducible cytokine b9
+small-inducible cytokine B9
+smallinducible cytokine B9
+Small-inducible cytokine B9
+small inducible cytokine B subfamily (CysXCys motif), member 13 (Bcell chemoattractant)
+small-inducible cytokine c1
+small-inducible cytokine C1
+smallinducible cytokine C1
+Small-inducible cytokine C1
+small-inducible cytokine d1
+small-inducible cytokine D1
+smallinducible cytokine D1
+Small-inducible cytokine D1
+small inducible cytokine subfamily A (CysCys), member 11 (eotaxin)
+small inducible cytokine subfamily A (CysCys), member 13
+small inducible cytokine subfamily A (CysCys), member 14
+small inducible cytokine subfamily A (CysCys), member 15
+small inducible cytokine subfamily A (CysCys), member 16
+small inducible cytokine subfamily A (CysCys), member 17
+small inducible cytokine subfamily A (CysCys), member 18, pulmonary and activationregulated
+small inducible cytokine subfamily A (CysCys), member 19
+small inducible cytokine subfamily A (CysCys), member 2
+small inducible cytokine subfamily A (CysCys), member 20
+small inducible cytokine subfamily A (CysCys), member 21
+small inducible cytokine subfamily A (CysCys), member 22
+small inducible cytokine subfamily A (CysCys), member 23
+small inducible cytokine subfamily A (CysCys), member 24
+small inducible cytokine subfamily A (CysCys), member 25
+small inducible cytokine subfamily A (CysCys), member 26
+small inducible cytokine subfamily A (CysCys), member 27
+small inducible cytokine subfamily A (CysCys), member 5
+small inducible cytokine subfamily A (CysCys), member 8 (monocyte chemotactic protein 2)
+small inducible cytokine subfamily B (CysXCys), member 10
+small inducible cytokine subfamily B (CysXCys), member 11
+small inducible cytokine subfamily B (CysXCys), member 14 (BRAK)
+small inducible cytokine subfamily B (CysXCys), member 5 (epithelialderived neutrophilactivating peptide 78)
+small inducible cytokine subfamily B (CysXCys), member 6 (granulocyte chemotactic protein 2)
+small inducible cytokine subfamily B (CysXCys), member 9B
+Small inducible cytokine subfamily B (CysXCys), member b
+small inducible cytokine subfamily b member 11
+small inducible cytokine subfamily B, member 7
+small inducible cytokine subfamily B, member 8
+small inducible cytokine subfamily C, member 1 (lymphotactin)
+small inducible cytokine subfamily C, member 2
+small inducible cytokine subfamily D (CysX3Cys), member1
+small inducible cytokine subfamily D (CysX3Cys), member 1 (fractalkine, neurotactin)
+smccf
+smc-cf
+SMC-CF
+SMDP4
+SMDP5
+sodf
+sOdf
+Soluble IL-4R-alpha
+Soluble IL-4 receptor subunit alpha
+Soluble interleukin-15 receptor subunit alpha
+Soluble interleukin-4 receptor subunit alpha
+Soluble KIT ligand
+soluble KIT variant 1
+soluble RON variant 1
+soluble RON variant 2
+soluble RON variant 3
+soluble RON variant 4
+soluble TNFR1B variant 1
+SPP1
+SPP-1
+SPP1 
+SPP1/CALPHA1 fusion
+SRPSOX
+SR-PSOX
+SSV
+st16
+st-16
+ST16
+ST38
+STCP-1
+steel factor
+Stem cell-derived tyrosine kinase
+stem cell factor
+Stem cell factor
+Stem Cell Factor
+stem cell tyrosine kinase 1
+Stem cell tyrosine kinase 1
+stimulated T cell chemotactic protein 1
+stimulated T-cell chemotactic protein 1
+stimulated Tcell chemotactic protein 1
+Stimulated T-cell chemotactic protein 1
+Stk
+STK1
+STK-1
+STRL22
+STRL33
+stromal cell-derived factor 1
+stromal cellderived factor 1
+stromal cell-derived factor 1 receptor
+Stromal cell-derived factor 1 receptor
+STWS
+suppression of tumorigenicity 16
+suppression of tumorigenicity-16
+suppression of tumorigenicity 16 (melanoma differentiation)
+suppression of tumorigenicity 16 protein
+Suppression of tumorigenicity 16 protein
+Suppressor Factors, Immunologic
+surface antigen CD70
+Sut-1
+SWS
+sy14
+SY14
+sy15
+SY15
+t14
+T14
+TAAD2
+TAC antigen
+TACI
+taf
+taif
+TAIF
+taifa
+TAIFa
+taifb
+TAIFb
+taifc
+TAIFc
+taifd
+TAIFd
+TALL1
+TALL-1
+tall2
+tall-2
+TALL2
+TALL-2
+TARC
+tax transcriptionally-activated glycoprotein 1
+TAX transcriptionally-activated glycoprotein 1
+TAX transcriptionallyactivated glycoprotein 1
+taxtranscriptionally activated glycoprotein 1 (34kD)
+tax-transcriptionally activated glycoprotein 1 receptor
+TAX transcriptionally-activated glycoprotein 1 receptor
+t-bam
+T-BAM
+TB cellactivating molecule
+tbetaR-I
+TbetaR-I
+tbetaR-II
+TbetaR-II
+TBP1
+TBP-2
+TBPI
+TBPII
+tc1
+tc-1
+TC1
+tc2
+tc-2
+TC2
+TCA3
+TCA-3
+TCA4
+t-cell activating factor
+t-cell activation antigen cd27
+T-cell activation antigen CD27
+T cell activation antigen S152
+T-cell activation protein 2
+Tcell activation protein 2
+T-cell activation protein 3
+t-cell activation protein p600
+T-cell activation protein P600
+T-cell antigen 4-1BB
+T-cell antigen 4-1BB homolog
+t-cell antigen gp39
+T-cell antigen Gp39
+Tcell antigen Gp39
+T cell antigen ILA
+T-cell antigen ILA
+t-cell chemotactic factor
+T-cell chemotactic factor
+Tcell chemotactic factor
+T-cell differentiation antigen L3T4
+T celldirected CC chemokine
+t-cell growth factor
+T cell growth factor
+T-cell growth factor
+t-cell growth factor-2
+t-cell growth factor-3
+t-cell growth factor p40
+Tcell growth factor p40
+T-cell growth factor P40
+t-cell growth inhibitory factor
+Tcell growth inhibitory factor
+t-cell maturation factor
+t-cell mitogenic factor
+t-cell replacing factor
+T-cell replacing factor
+Tcell replacing factor
+t-cell replacing factor 1
+t-cell replacing factor-1
+t-cell replacing factor-3
+t-cell-specific protein p228
+T cell-specific protein P228
+Tcell specific protein p288
+t-cell-specific protein rantes
+T-cell-specific protein RANTES
+T-cell surface antigen T4/Leu-3
+T-cell surface glycoprotein CD4
+tcf
+tcgf
+TCGF
+tcgf-2
+tcgf-3
+TCGFR
+tcmf
+tcp228
+TCP228
+tdcf
+TDGF1
+TDGF1P2 
+TDGF1P3
+TDGF1P3 
+tdgf2
+tdgf-2
+TDGF2
+tdgf3
+tdgf-3
+TDGF3
+teck
+TECK
+TECKvar
+TER1
+teratocarcinoma-derived growth factor 1 pseudogene 2
+teratocarcinoma-derived growth factor 1 pseudogene 3
+teratocarcinoma-derived growth factor 2
+teratocarcinoma-derived growth factor 3
+tfga
+TFGA
+tfg(alpha)
+tgb
+TGB
+tgb1
+tgb-1
+TGB1
+tgb2
+TGBR3_HUMAN
+tgf
+TGF
+tgfa
+ TGFa
+TGF-a
+TGFA
+TGFA 
+TGFA_HUMAN
+tgf-alpha
+tgf-(alpha)
+TGFalpha
+TGF-alpha
+TGFB
+TGFB1
+TGFB1 
+TGFB1_HUMAN
+TGFB2
+TGFB2 
+TGFB2_HUMAN
+TGFB3
+TGFB3 
+TGFB3_HUMAN
+TGFbeta
+TGF beta
+TGF-beta
+TGFbeta1
+TGF beta 1
+TGF-beta 1
+TGF-beta-1
+TGF beta 2
+TGF-beta2
+TGF-beta 2
+TGF-beta-2
+TGFbeta3
+TGF beta 3
+TGF-beta3
+TGF-beta 3
+TGF-beta-3
+TGF-beta receptor type-1
+TGF-beta receptor type-2
+TGF-beta receptor type 3
+TGF-beta receptor type-3
+TGF-beta receptor type I
+TGF-beta receptor type II
+TGF-beta receptor type IIB
+TGF-beta receptor type III
+TGFbeta-RII
+TGF-beta type II receptor
+TGF-beta type I receptor
+TGFBR1
+TGFBR2
+TGFBR3
+TGFR-1
+TGFR1_HUMAN
+TGFR-2
+TGFR2_HUMAN
+TGFR-3
+TGF type 1
+tgif
+TGIF
+tgp-3
+th2-specific cytokine fisp
+Th2-specific cytokine FISP
+THANK
+thbgb
+THBGB
+thbgb1
+thbg-b1
+THBGB1
+THCYT1
+THCYT2
+THPO
+THPO 
+thrombocidin 1
+thrombocidin 2
+thromboglobulin, beta1
+thrombopoietin
+Thrombopoietin
+thrombopoietin receptor
+Thrombopoietin receptor
+thymic lymphoma cell-stimulating factor
+thymic stroma chemokine1
+thymic stroma chemokine-1
+Thymic stroma chemokine-1
+thymocyte differentiation factor
+thymocyte mitogenic factor
+thymus and activation-regulated chemokine
+thymus and activationregulated chemokine
+Thymus and activation-regulated chemokine
+thymus-derived chemotactic agent 4
+thymus expressed chemokine
+thymus-expressed chemokine
+thymusexpressed chemokine
+Thymus-expressed chemokine
+tifa
+tif-a
+TIFa
+tif-alpha
+tifil-23
+TIFIL-23
+tl1
+TL1
+tl1a
+TL1A
+TL2
+TL6
+t-lpf
+TLSF
+t-lymphocyte promotor factor
+T lymphocyte-secreted protein I-309
+T lymphocytesecreted protein I309
+tmf
+TN13B_HUMAN
+TNF
+TNF 
+TNF10_HUMAN
+TNF11_HUMAN
+TNF12_HUMAN
+TNF13_HUMAN
+TNF14_HUMAN
+TNF15_HUMAN
+TNF18_HUMAN
+tnfa
+tnf-a
+TNFa
+TNF a
+TNF-a
+TNFA
+TNFA_HUMAN
+tnfalpha
+tnf alpha
+tnf {alpha}
+tnf-alpha
+tnf-{alpha}
+tnf{alpha}
+TNF alpha
+TNF_alpha
+TNF-alpha
+TNF- and APOL-related leukocyte expressed ligand 1
+tnf- and apol-related leukocyte expressed ligand 2
+TNF and APOLrelated leukocyte expressed ligand 2
+TNF- and APOL-related leukocyte expressed ligand 2
+TNFAR
+tnfb
+tnf-b
+TNFB
+tnf-beta
+tnf-(beta)
+tnf(beta)
+TNFbeta
+TNF-beta
+TNFB_HUMAN
+TNFBR
+TNFC
+TNF-C
+TNFC_HUMAN
+TNFCR
+TNFL4_HUMAN
+TNFL6_HUMAN
+TNFL8_HUMAN
+TNFL9_HUMAN
+tnf ligand-related molecule 1
+TNF ligand-related molecule 1
+TNF ligandrelated molecule 1
+TNF, macrophagederived
+TNF, monocytederived
+TNF-R
+Tnfr-1
+TNFR1
+TNF-R1
+TNFR1B
+TNFR1-d2
+Tnfr-2
+TNFR2
+TNF-R2
+TNFR2-RP
+TNFR3
+TNFR55
+TNF-R55
+TNFR60
+TNF-R75
+TNFR80
+TNF receptor-related receptor for TRAIL
+TNF receptor superfamily activation-inducible protein
+TNF receptor superfamily member 10b
+TNF receptor superfamily member 6
+tnf-related activation-induced cytokine
+TNF-related activation-induced cytokine
+TNFrelated activationinduced cytokine
+tnf-related activation protein
+TNF-related activation protein
+TNFrelated activation protein
+TNF-related apoptosis-inducing ligand
+TNF-related apoptosis-inducing ligand receptor 1
+TNF-related apoptosis-inducing ligand receptor 2
+TNF-related apoptosis-inducing ligand receptor 3
+TNF-related apoptosis-inducing ligand receptor 4
+TNF-related apoptosis inducing ligand TRAIL
+tnf-related death ligand 1
+TNF-related death ligand 1
+tnf-related weak inducer of apoptosis
+TNF-related weak inducer of apoptosis
+TNFrelated WEAK inducer of apoptosis
+TNF-RI
+TNF-R-I
+TNFR-I
+TNF-RII
+TNF-R-II
+TNFR-II
+TNF-RIII
+TNF-R-III
+TNFR-III
+TNFR-RP
+TNFRSF10A
+TNFRSF10B
+TNFRSF10C
+TNFRSF10D
+TNFRSF11A
+TNFRSF11B
+TNFRSF12
+TNFRSF13A
+TNFRSF13B
+TNFRSF14
+TNFRSF14B
+TNFRSF17
+TNFRSF18
+TNFRSF1A
+TNFRSF1B
+TNFRSF25
+TNFRSF3
+TNFRSF4
+TNFRSF5
+TNFRSF6
+TNFRSF7
+TNFRSF8
+TNFRSF9
+tnfsf1
+TNFSF1
+TNFSF10
+tnfsf11
+TNFSF11
+TNFSF11 
+tnfsf12
+TNFSF12
+TNFSF12 
+tnfsf13
+TNFSF13
+TNFSF13 
+TNFSF13B
+tnfsf14
+TNFSF14
+TNFSF14 
+tnfsf15
+TNFSF15
+TNFSF15 
+TNFSF18
+tnfsf2
+TNFSF2
+TNFSF20
+TNFSF3
+tnfsf4
+TNFSF4
+TNFSF4 
+tnfsf5
+TNFSF5
+TNFSF6
+tnfsf7
+TNFSF7
+tnfsf8
+TNFSF8
+TNFSF8 
+tnfsf9
+TNFSF9
+TNFSF9 
+TNF superfamily ligand TL1A
+tnf superfamily, member 1
+TNF superfamily, member 1
+tnf superfamily, member 13
+tnf superfamily, member 7
+TNR11_HUMAN
+TNR14_HUMAN
+TNR17_HUMAN
+TNR18_HUMAN
+TNR1A_HUMAN
+TNR1B_HUMAN
+TNR25_HUMAN
+TNR3_HUMAN
+TNR4_HUMAN
+TNR5_HUMAN
+TNR6_HUMAN
+TNR8_HUMAN
+TNR9_HUMAN
+tonsillar lymphocyte LD78 alpha protein
+Tonsillar lymphocyte LD78 alpha protein
+tonsillar lymphocyte LD78 beta protein
+Tonsillar lymphocyte LD78 beta protein
+Tp55
+TPAR1
+tpo
+TPO
+TPO_HUMAN
+TPOR
+TPO-R
+TPOR_HUMAN
+TR1
+TR10A_HUMAN
+TR10B_HUMAN
+TR10C_HUMAN
+TR10D_HUMAN
+TR11B_HUMAN
+TR13B_HUMAN
+tr2
+TR2
+TR3
+TRAIL
+TRAILR1
+TRAIL-R1
+TRAILR-1
+TRAILR2
+TRAIL-R2
+TRAILR3
+TRAIL-R3
+TRAILR4
+TRAIL-R4
+TRAIL receptor 1
+TRAIL receptor 2
+TRAIL receptor 3
+TRAIL receptor 4
+TRAIL receptor with a truncated death domain
+TRAIL receptor without an intracellular domain
+TRAMP
+trance
+TRANCE
+TRANCER
+Transfer Factor
+Transforming Growth Factor
+transforming growth factor, alpha
+Transforming growth factor alpha
+Transforming Growth Factor alpha
+Transforming Growth Factor b
+Transforming Growth Factor b1
+Transforming Growth Factor b2
+Transforming Growth Factor b3
+Transforming Growth Factor beta
+Transforming Growth Factor-Beta
+transforming growth factor beta1
+transforming growth factor, beta 1
+Transforming Growth Factor beta1
+Transforming Growth Factor beta 1
+transforming growth factor beta2
+transforming growth factor, beta 2
+Transforming Growth Factor beta2
+Transforming Growth Factor beta 2
+transforming growth factor beta3
+transforming growth factor, beta 3
+Transforming Growth Factor beta3
+Transforming Growth Factor beta 3
+transforming growth factor, beta receptor 1 
+transforming growth factor beta receptor I
+transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kD)
+transforming growth factor, beta receptor II 
+transforming growth factor, beta receptor II alpha
+transforming growth factor, beta receptor II beta
+transforming growth factor, beta receptor II delta
+transforming growth factor, beta receptor II epsilon
+transforming growth factor, beta receptor II gamma
+transforming growth factor beta receptor III
+transforming growth factor, beta receptor III 
+Transforming growth factor beta receptor III
+transforming growth factor beta receptor type 3
+Transforming growth factor beta receptor type 3
+transforming growth factor-beta receptor type I
+Transforming growth factor-beta receptor type I
+transforming growth factor-beta receptor type II
+Transforming growth factor-beta receptor type II
+transforming growth factor beta receptor type IIC
+transmembrane activator and CAML interactor
+Transmembrane activator and CAML interactor
+transmembrane chemokine CXCL16
+Transmembrane chemokine CXCL16
+transmembrane proteolipid
+trap
+TRAP
+trdl1
+trdl-1
+TRDL-1
+trf
+TRF
+trf1
+trf-1
+trf3
+trf-3
+TRICK2
+TRICK2A
+TRICK2B
+TRICKB
+TRID
+TRUNDD
+TSC-1
+tsg1
+tsg-1
+tsg8
+tsg-8
+tumor necrosis factor
+tumor necrosis factoralpha
+tumor necrosis factor alpha
+tumor necrosis factor {alpha}
+tumor necrosis factor-alpha
+tumor necrosis factor-{alpha}
+tumor necrosis factor{alpha}
+Tumor Necrosis Factor-alpha
+tumor necrosis factor alpha-inducing factor
+tumor necrosis factor alphainducing factor
+Tumor necrosis factor alpha-inducing factor
+tumor necrosis factor-alpha receptor
+tumor necrosis factor apoptosis-inducing ligand splice variant delta
+tumor necrosis factor beta
+tumor necrosis factor beta receptor
+tumor necrosis factor binding protein 1
+Tumor necrosis factor-binding protein 1
+tumor necrosis factor binding protein 2
+Tumor necrosis factor-binding protein 2
+tumor necrosis factor C
+Tumor necrosis factor C
+tumor necrosis factor C receptor
+Tumor necrosis factor C receptor
+tumor necrosis factorinduced gene 1
+tumor necrosis factor (ligand) family, member 10
+tumor necrosis factor ligand superfamily member 1
+Tumor necrosis factor ligand superfamily member 1
+tumor necrosis factor (ligand) superfamily, member 10
+tumor necrosis factor ligand superfamily member 10
+Tumor necrosis factor ligand superfamily member 10
+tumor necrosis factor (ligand) superfamily, member 11
+tumor necrosis factor ligand superfamily member 11
+Tumor necrosis factor ligand superfamily member 11
+Tumor necrosis factor ligand superfamily member 11, soluble form
+tumor necrosis factor (ligand) superfamily, member 12
+tumor necrosis factor ligand superfamily member 12
+Tumor necrosis factor ligand superfamily member 12
+Tumor necrosis factor ligand superfamily member 12, secreted form
+tumor necrosis factor (ligand) superfamily, member 13
+tumor necrosis factor ligand superfamily member 13
+Tumor necrosis factor ligand superfamily member 13
+Tumor Necrosis Factor Ligand Superfamily Member 13
+tumor necrosis factor (ligand) superfamily, member 13b
+tumor necrosis factor ligand superfamily member 13B
+Tumor necrosis factor ligand superfamily member 13b, soluble form
+tumor necrosis factor (ligand) superfamily, member 14
+tumor necrosis factor ligand superfamily member 14
+Tumor necrosis factor ligand superfamily member 14
+Tumor Necrosis Factor Ligand Superfamily Member 14
+Tumor necrosis factor ligand superfamily member 14, soluble form
+tumor necrosis factor (ligand) superfamily, member 15
+tumor necrosis factor ligand superfamily member 15
+Tumor necrosis factor ligand superfamily member 15
+Tumor Necrosis Factor Ligand Superfamily Member 15
+Tumor necrosis factor ligand superfamily member 15, secreted form
+tumor necrosis factor (ligand) superfamily, member 18
+tumor necrosis factor ligand superfamily member 18 
+Tumor necrosis factor ligand superfamily member 18
+tumor necrosis factor ligand superfamily member 2
+Tumor necrosis factor ligand superfamily member 2
+tumor necrosis factor ligand superfamily member 3
+Tumor necrosis factor ligand superfamily member 3
+tumor necrosis factor (ligand) superfamily, member 4
+tumor necrosis factor ligand superfamily member 4
+Tumor necrosis factor ligand superfamily member 4
+tumor necrosis factor (ligand) superfamily member 5
+tumor necrosis factor ligand superfamily member 5
+Tumor necrosis factor ligand superfamily member 5
+tumor necrosis factor ligand superfamily member 6
+Tumor necrosis factor ligand superfamily member 6
+tumor necrosis factor (ligand) superfamily, member 7
+tumor necrosis factor ligand superfamily member 7
+Tumor necrosis factor ligand superfamily member 7
+tumor necrosis factor (ligand) superfamily, member 8
+tumor necrosis factor ligand superfamily member 8
+Tumor necrosis factor ligand superfamily member 8
+tumor necrosis factor (ligand) superfamily, member 9
+tumor necrosis factor ligand superfamily member 9
+Tumor necrosis factor ligand superfamily member 9
+tumor necrosis factorlike protein ZTNF2
+tumor necrosis factor receptor 1
+Tumor necrosis factor receptor 1
+tumor necrosis factor receptor 13B
+tumor necrosis factor receptor 1A isoform beta
+tumor necrosis factor receptor 2
+Tumor necrosis factor receptor 2
+tumor necrosis factor receptor 2-related protein
+Tumor necrosis factor receptor 2-related protein
+tumor necrosis factor receptor-like 2
+tumor necrosis factor receptorlike 2
+Tumor necrosis factor receptor-like 2
+tumor necrosis factor receptor-like gene2
+tumor necrosis factor receptor-like protein ZTNFR9
+tumor necrosis factor receptor superfamily, member 10a
+tumor necrosis factor receptor superfamily member 10A
+Tumor necrosis factor receptor superfamily member 10A
+tumor necrosis factor receptor superfamily member 10a variant 2
+tumor necrosis factor receptor superfamily, member 10b
+tumor necrosis factor receptor superfamily member 10B
+Tumor necrosis factor receptor superfamily member 10B
+tumor necrosis factor receptor superfamily member 10C
+Tumor necrosis factor receptor superfamily member 10C
+tumor necrosis factor receptor superfamily, member 10c, decoy without an intracellular domain
+tumor necrosis factor receptor superfamily member 10D
+Tumor necrosis factor receptor superfamily member 10D
+tumor necrosis factor receptor superfamily, member 10d, decoy with truncated death domain 
+tumor necrosis factor receptor superfamily member 11A
+Tumor necrosis factor receptor superfamily member 11A
+tumor necrosis factor receptor superfamily, member 11a, NFKB activator
+tumor necrosis factor receptor superfamily, member 11b 
+tumor necrosis factor receptor superfamily member 11B
+Tumor necrosis factor receptor superfamily member 11B
+tumor necrosis factor receptor superfamily, member 12 (translocating chain-association membrane protein)
+tumor necrosis factor receptor superfamily member 13B
+tumor necrosis factor receptor superfamily, member 13B
+Tumor necrosis factor receptor superfamily member 13B
+tumor necrosis factor receptor superfamily member 14
+tumor necrosis factor receptor superfamily, member 14
+Tumor necrosis factor receptor superfamily member 14
+tumor necrosis factor receptor superfamily, member 14 (herpesvirus entry mediator)
+tumor necrosis factor receptor superfamily member 17
+tumor necrosis factor receptor superfamily, member 17
+Tumor necrosis factor receptor superfamily member 17
+tumor necrosis factor receptor superfamily member 18
+tumor necrosis factor receptor superfamily, member 18
+Tumor necrosis factor receptor superfamily member 18
+tumor necrosis factor receptor superfamily member 1A
+tumor necrosis factor receptor superfamily, member 1A
+tumor necrosis factor receptor superfamily member 1B
+tumor necrosis factor receptor superfamily, member 1B
+tumor necrosis factor receptor superfamily member 25
+tumor necrosis factor receptor superfamily, member 25
+Tumor necrosis factor receptor superfamily member 25
+tumor necrosis factor receptor superfamily member 3
+Tumor necrosis factor receptor superfamily member 3
+tumor necrosis factor receptor superfamily member 4
+tumor necrosis factor receptor superfamily, member 4
+Tumor necrosis factor receptor superfamily member 4
+tumor necrosis factor receptor superfamily member 5
+tumor necrosis factor receptor superfamily, member 5
+Tumor necrosis factor receptor superfamily member 5
+tumor necrosis factor receptor superfamily member 6
+tumor necrosis factor receptor superfamily, member 6
+Tumor necrosis factor receptor superfamily member 6
+tumor necrosis factor receptor superfamily, member 7
+Tumor necrosis factor receptor superfamily member 7
+tumor necrosis factor receptor superfamily member 8
+tumor necrosis factor receptor superfamily, member 8
+Tumor necrosis factor receptor superfamily member 8
+tumor necrosis factor receptor superfamily member 9
+tumor necrosis factor receptor superfamily, member 9
+Tumor necrosis factor receptor superfamily member 9
+tumor necrosis factor receptor type 1
+tumor necrosis factor receptor type I
+Tumor necrosis factor receptor type I
+tumor necrosis factor receptor type II
+Tumor necrosis factor receptor type II
+tumor necrosis factor receptor type III
+Tumor necrosis factor receptor type III
+tumor necrosis factorrelated death ligand1
+Tumor Necrosis Factors
+Tumor_Necrosis_Factors
+Tumor necrosis factor, soluble form
+tumorsuppressing chemokine
+tweak
+TWEAK
+txgp1
+txgp-1
+Txgp1
+TXGP1
+txgp1l
+Txgp1l
+TXGP1L
+TXLN
+TXLNA
+TY-5
+TYMSTR
+type II interleukin1 receptor antagonist
+type II interleukin-1 receptor, beta
+type I interferon
+type I interferon receptor 1
+Type I interferon receptor 1
+type I interferon receptor 2
+Type I interferon receptor 2
+tyrosine-protein kinase FLT3
+tyrosine-protein kinase Kit
+Tyrosine-protein kinase Kit
+tyrosine-protein kinase Met
+Tyrosine-protein kinase Met
+tyrosine-protein kinase receptor flk-2
+tyrosine-protein kinase receptor FLT3
+UCK-1
+uii
+u-ii
+UNQ160/PRO186
+UNQ251/PRO288
+UNQ3121/PRO10273
+UNQ321/PRO366
+unq383/pro715
+UNQ383/PRO715
+unq473
+UNQ473
+UNQ5793/PRO19598/PRO19822
+URG
+urinary stone protein
+Urinary stone protein
+Urogastrone
+uropontin
+Uropontin
+urotensin 2
+urotensin-2
+uts2
+uts-2
+V28
+vascular endothelial cell growth inhibitor
+Vascular endothelial cell growth inhibitor
+vascular endothelial growth inhibitor
+vascular endothelial growth inhibitor192A
+vcc1
+vcc-1
+VCC1
+VCC-1
+VCC1_HUMAN
+vegf co-regulated chemokine 1
+VEGF co-regulated chemokine 1
+VEGF coregulated chemokine 1
+vegi
+VEGI
+vegi192a
+vegi-192a
+VEGI192A
+v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog
+v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene-like protein
+weche
+WHIM
+wi-26-va4 factor
+WSL
+WSL1
+WSL-1
+WSL-LR
+X3CL1_HUMAN
+xc chemokine ligand 1
+XC chemokine ligand 1
+XC chemokine ligand 2
+XC chemokine receptor 1
+xcl1
+xcl-1
+XCL1
+XCL-1
+XCL1 
+XCL1_HUMAN
+XCL1PRO-short-label
+xcl-2
+XCL2
+XCL-2
+XCL2 
+XCL2_HUMAN
+XCP1
+XCR1
+XCR1_HUMAN
+Za11
+zcyto10
+ZCYTO10
+zcyto18
+ZCYTO18
+zcyto20
+ZCYTO20
+zcyto21
+ZCYTO21
+zcyto22
+ZCYTO22
+zcyto7
+ZCYTO7
+zcytoR11
+ZcytoR11
+ZcytoR16
+ZCYTOR16
+ZcytoR7
+zmda1
+zmda-1
+ZMDA1
+ztnf2
+ZTNF2
+ZTNF4
+ZTNFR9

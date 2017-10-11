@@ -16,6 +16,7 @@ git clone https://github.com/lasigeBioTM/MER.git
 Change config/database.config accordingly
 
 Download cl.owl from https://bioportal.bioontology.org/ontologies/CL
+
 Download cytokine registry from http://www.immport.org/immport-open/public/reference/cytokineRegistry and convert it to csv
 Move both files to data/
 

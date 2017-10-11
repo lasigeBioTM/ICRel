@@ -6,6 +6,9 @@ from sqlalchemy.ext.declarative import declarative_base
 from database_schema import Normalization
 
 # process CSV file converted from the excel file downloaded from IMMport
+# Download from here: http://www.immport.org/immport-open/public/reference/cytokineRegistry
+# convert to csv
+# save to data/cytokines.csv
 
 #engine = create_engine('sqlite:///database.sqlite', echo=False)
 with open("config/database.config", 'r') as f:
@@ -86,7 +89,7 @@ normalization = Normalization(text="interleukin 27", reference_name="IL17", enti
 session.add(normalization)
 
 
-with open("cytokines.csv", 'r') as cytos:
+with open("data/cytokines.csv", 'r') as cytos:
     cytoreader = csv.reader(cytos, delimiter=',')
     next(cytoreader)
     for line in cytoreader:
@@ -139,9 +142,9 @@ session.commit()
 # 276 entries
 #print(names)
 print(len(names))
-with open("cytokine_names.txt", 'w') as cytofile:
+with open("data/cytokine_names.txt", 'w') as cytofile:
     cytofile.write('\n'.join(cytokine_names))
 
-with open("cytokine_entrez_index.txt", 'w') as entrezfile:
+with open("data/cytokine_entrez_index.txt", 'w') as entrezfile:
     for n in entrez_index:
         entrezfile.write("{}\t{}\n".format(n, entrez_index[n]))

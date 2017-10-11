@@ -3,7 +3,7 @@ import time
 import logging
 from random import shuffle
 import sys
-from memory_profiler import profile
+
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base

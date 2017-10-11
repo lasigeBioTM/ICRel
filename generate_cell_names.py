@@ -7,28 +7,19 @@ import inflect
 
 from database_schema import Normalization
 #names = set()
-model = ontospy.Ontospy("./cl.owl")
+# download from https://bioportal.bioontology.org/ontologies/CL
+model = ontospy.Ontospy("./data/cl.owl")
 
-#lymphocytes1 = model.getClass("http://purl.obolibrary.org/obo/CL_0000542")
-#lymphocytes2 = model.getClass("http://purl.obolibrary.org/obo/CL_0000219")
 cells = model.getClass("http://purl.obolibrary.org/obo/CL_0000000")
-#for e in lymphocytes1.descendants():
-#    names.add(e.bestLabel())
-
-#for e in lymphocytes2.descendants():
-#    names.add(e.bestLabel())
-
 remappings = ["OVA", "monocyte", "Treg"]
 
 
 synonyms = {}
 for e in cells.descendants():
-    #ames.add(e.bestLabel())
     synonyms[e.bestLabel()] = e.bestLabel()
     for syn in e.rdfgraph.objects(subject=e.uri,
                          predicate=rdflib.term.URIRef('http://www.geneontology.org/formats/oboInOwl#hasExactSynonym')):
         #print(e.bestLabel(), "exact", str(syn))
-        #names.add(str(syn))
         if str(syn) not in remappings:
             synonyms[str(syn)] = e.bestLabel()
 
@@ -36,21 +27,18 @@ for e in cells.descendants():
     for syn in e.rdfgraph.objects(subject=e.uri,
                          predicate=rdflib.term.URIRef('http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym')):
         #print(e.bestLabel(), "related", str(syn))
-        #names.add(str(syn))
         if str(syn) not in remappings:
             synonyms[str(syn)] = e.bestLabel()
 
     for syn in e.rdfgraph.objects(subject=e.uri,
                          predicate=rdflib.term.URIRef('http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym')):
         #print(e.bestLabel(), "related", str(syn))
-        #names.add(str(syn))
         if str(syn) not in remappings:
             synonyms[str(syn)] = e.bestLabel()
 
     for syn in e.rdfgraph.objects(subject=e.uri,
                          predicate=rdflib.term.URIRef('http://www.geneontology.org/formats/oboInOwl#hasNarrowSynonym')):
         #print(e.bestLabel(), "related", str(syn))
-        #names.add(str(syn))
         if str(syn) not in remappings:
             synonyms[str(syn)] = e.bestLabel()
 
@@ -63,7 +51,7 @@ for s in list(synonyms):
 
 print(len(synonyms))
 
-with open("cell_names.txt", 'w') as cellfile:
+with open("data/cell_names.txt", 'w') as cellfile:
     cellfile.write('\n'.join(synonyms.keys()))
 
 with open("config/database.config", 'r') as f:
@@ -97,7 +85,7 @@ normalization = Normalization(text="Tregs", reference_name="regulatory T cell", 
                                                   reference_source="cellontology")
 session.add(normalization)
 
-with open("cell_reference.txt", 'w') as cellfile:
+with open("data/cell_reference.txt", 'w') as cellfile:
     for s in synonyms:
         cellfile.write('{}\t{}\n'.format(s, synonyms[s]))
         normalization = Normalization(text=s, reference_name=synonyms[s], entity_type="cell",

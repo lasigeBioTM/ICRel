@@ -11,16 +11,13 @@ Identifying Cellular Relations
 First install requirements
 ```
 pip install -r requirements.txt
-```
-
-```
 git clone https://github.com/lasigeBioTM/MER.git
 ```
 Change config/database.config accordingly
 
 Download cl.owl from https://bioportal.bioontology.org/ontologies/CL
-Download cytokine registry from http://www.immport.org/immport-open/public/reference/cytokineRegistry
-Convert cytokine to csv
+
+Download cytokine registry from http://www.immport.org/immport-open/public/reference/cytokineRegistry and convert it to csv
 Move both files to data/
 
 ```

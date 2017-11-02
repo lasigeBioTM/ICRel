@@ -26,10 +26,12 @@ python generate_cell_names.py
 python generate_cytokine_names_entrez.py
 ```
 
-Change config/corpus/immuno.config or create a new file according to your specifications
+Copy data/cell.txt and data/cytokine.txt to MER/data/ and run ```./produce_data_files cell``` and ```./produce_data_files cytokine```
+
+Change config/immuno.config or create a new file according to your specifications
 
 ```
-python generate_corpus.py config/corpus/immuno.config
+python generate_corpus.py -c config/immuno.config
 ```
 
 Create directories temp/ and results/

@@ -39,3 +39,9 @@ Create directories temp/ and results/
 ```
 python run_ds -c config/train_immuno.config
 ```
+
+## References: 
+
+- A. Lamurias, J. Ferreira, L. Clarke, and F. Couto, “Generating a tolerogenic cell therapy knowledge graph from literature,” Frontiers in Immunology, vol. 8, no. 1656, pp. 1--23, 2017 (https://doi.org/10.3389/fimmu.2017.01656)
+
+- A. Lamurias, L. Clarke, and F. Couto, “Extracting microRNA-gene relations from biomedical literature using distant supervision,” PLoS ONE, vol. 12, no. 3, pp. 1--20, 2017 (https://doi.org/10.1371/journal.pone.0171929)

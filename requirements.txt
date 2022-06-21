@@ -16,7 +16,7 @@ inflect==0.2.5
 isodate==0.5.4
 -e git+https://github.com/garydoranjr/misvm.git@aff618f39f1e4015c9557a3b744f4bfeb0abd7ce#egg=misvm
 murmurhash==0.26.4
-numpy==1.13.3
+numpy==1.22.0
 ontospy==1.8.6
 pathlib==1.0.1
 plac==0.9.6
